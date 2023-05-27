@@ -1,0 +1,2543 @@
+RequestTime,StartingStation,EndingStation,ModelOld,ModelSL,ModelDelay
+1900-01-01 16:00:14,Tekniska högskolan,Fridhemsplan,"[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:14:00
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 10 at 16:11:00 to Fridhemsplan (arriving at 16:14:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:00	Arrival Time :16:15:00
+ 	-In Tekniska högskolan, take line 4 at 16:01:00 to Fridhemsplan (arriving at 16:15:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 2 minutes and wait 0min30
+ 	-In T-Centralen, take line 17 at 16:10:00 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 2 minutes and wait 0min30
+ 	-In T-Centralen, take line 18 at 16:10:00 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 10 at 16:15:30 to Fridhemsplan (arriving at 16:18:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:19:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 2 minutes and wait 2min30
+ 	-In T-Centralen, take line 19 at 16:12:00 to Fridhemsplan (arriving at 16:19:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 17 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 19 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 2min0
+ 	-In T-Centralen, take line 18 at 16:14:00 to Fridhemsplan (arriving at 16:21:30)      ]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :15:59:00	Arrival Time :16:14:00
+ 	-In Tekniska högskolan, take line 14 at 15:59:00 to T-Centralen (arriving at 16:06:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 10 at 16:11:00 to Fridhemsplan (arriving at 16:14:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :15:56:00	Arrival Time :16:14:00
+ 	-In Tekniska högskolan, take line 4 at 15:56:00 to Fridhemsplan (arriving at 16:14:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:17:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:14:00 to Fridhemsplan (arriving at 16:17:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:19:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Odenplan (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 4min0
+ 	-In Odenplan, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:19:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 1439min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:24:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Fridhemsplan (arriving at 16:24:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Tekniska högskolan, take line 4 at 16:09:00 to Fridhemsplan (arriving at 16:27:00)]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:17:41
+ Probability of success: 0.9854844559585493
+ Quantile 50: 16:18:04
+ Quantile 90: 16:18:40
+ Quantile 95: 16:19:03
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:02:32	Arrival Time :16:19:11
+ Probability of success: 1
+ Quantile 50: 16:20:28
+ Quantile 90: 16:24:31
+ Quantile 95: 16:26:13
+ 	-In Tekniska högskolan, take line 4 at 16:02:32 to Fridhemsplan (arriving at 16:19:11)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:21:00
+ Probability of success: 0.9895929919137466
+ Quantile 50: 16:21:24
+ Quantile 90: 16:21:57
+ Quantile 95: 16:22:13
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:22:12
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 1min27
+ 	-In T-Centralen, take line 18 at 16:14:27 to Fridhemsplan (arriving at 16:22:12)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:23:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 3min0
+ 	-In T-Centralen, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:23:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:30	Arrival Time :16:24:41
+ 	-In Tekniska högskolan, take line 14 at 16:09:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Fridhemsplan (arriving at 16:24:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:23	Arrival Time :16:25:50
+ 	-In Tekniska högskolan, take line 4 at 16:05:23 to Fridhemsplan (arriving at 16:25:50)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:30	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:09:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 2 minutes and wait 2min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:30	Arrival Time :16:28:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In T-Centralen, take line 10 at 16:25:00 to Fridhemsplan (arriving at 16:28:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:30	Arrival Time :16:30:06
+ 	-In Tekniska högskolan, take line 14 at 16:09:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 2 minutes and wait 4min30
+ 	-In T-Centralen, take line 18 at 16:22:30 to Fridhemsplan (arriving at 16:30:06)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:30	Arrival Time :16:32:30
+ 	-In Tekniska högskolan, take line 14 at 16:09:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 19 at 16:25:00 to Fridhemsplan (arriving at 16:32:30)      ]"
+1900-01-01 16:00:15,Fridhemsplan,Tekniska högskolan,"[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:00	Arrival Time :16:17:00
+ 	-In Fridhemsplan, take line 4 at 16:01:00 to Tekniska högskolan (arriving at 16:17:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:15	Arrival Time :16:17:00
+ 	-In Fridhemsplan, take line 19 at 16:01:15 to T-Centralen (arriving at 16:09:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:11:00 to Tekniska högskolan (arriving at 16:17:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:00:45	Arrival Time :16:17:00
+ 	-In Fridhemsplan, take line 17 at 16:00:45 to T-Centralen (arriving at 16:09:00)
+ 	-Walk 1 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:11:00 to Tekniska högskolan (arriving at 16:17:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:15	Arrival Time :16:17:00
+ 	-In Fridhemsplan, take line 19 at 16:01:15 to T-Centralen (arriving at 16:09:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:11:00 to Tekniska högskolan (arriving at 16:17:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 18 at 16:01:30 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 10 at 16:02:30 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 11 at 16:03:00 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 4 at 16:04:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 18 at 16:01:30 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 10 at 16:02:30 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 11 at 16:03:00 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 17 at 16:09:00 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:00	Arrival Time :16:19:00
+ 	-In Fridhemsplan, take line 4 at 16:02:00 to Tekniska högskolan (arriving at 16:19:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:22:00
+ 	-In Fridhemsplan, take line 19 at 16:04:00 to Odenplan (arriving at 16:07:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In Odenplan, take line 6 at 16:16:00 to Tekniska högskolan (arriving at 16:22:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:08:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 4 at 16:08:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 10 at 16:09:00 to T-Centralen (arriving at 16:14:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:13:00	Arrival Time :16:30:00
+ 	-In Fridhemsplan, take line 11 at 16:13:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:46	Arrival Time :16:20:36
+ Probability of success: 0.986765541740675
+ Quantile 50: 16:21:01
+ Quantile 90: 16:22:07
+ Quantile 95: 16:22:39
+ 	-In Fridhemsplan, take line 18 at 16:01:46 to T-Centralen (arriving at 16:10:38)
+ 	-Walk 1 minutes and wait 3min6
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:37	Arrival Time :16:20:36
+ Probability of success: 0.9900426287744227
+ Quantile 50: 16:21:01
+ Quantile 90: 16:22:07
+ Quantile 95: 16:22:39
+ 	-In Fridhemsplan, take line 10 at 16:03:37 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 3min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:10	Arrival Time :16:20:36
+ Probability of success: 0.9684014209591474
+ Quantile 50: 16:21:01
+ Quantile 90: 16:22:07
+ Quantile 95: 16:22:39
+ 	-In Fridhemsplan, take line 19 at 16:04:10 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:37	Arrival Time :16:20:36
+ 	-In Fridhemsplan, take line 10 at 16:03:37 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 3min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:10	Arrival Time :16:20:36
+ 	-In Fridhemsplan, take line 19 at 16:04:10 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:05	Arrival Time :16:21:05
+ 	-In Fridhemsplan, take line 4 at 16:04:05 to Tekniska högskolan (arriving at 16:21:05)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:30	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 18 at 16:06:30 to T-Centralen (arriving at 16:15:30)
+ 	-Walk 1 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)]"
+1900-01-01 16:00:15,Tekniska högskolan,Solna Centrum,"[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:01:30	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:01:00	Arrival Time :16:26:30
+ 	-In Tekniska högskolan, take line 4 at 16:01:00 to Fridhemsplan (arriving at 16:15:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In Fridhemsplan, take line 11 at 16:20:30 to Solna Centrum (arriving at 16:26:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:00:30	Arrival Time :16:28:19
+ 	-In Tekniska högskolan, take line 14 at 16:00:30 to Bergshamra (arriving at 16:05:30)
+ 	-Walk 5 minutes and wait 3min49
+ 	-In Bergshamra, take line 176 at 16:14:19 to Solna Centrum (arriving at 16:28:19)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:00:30	Arrival Time :16:28:53
+ 	-In Tekniska högskolan, take line 14 at 16:00:30 to Bergshamra (arriving at 16:05:30)
+ 	-Walk 5 minutes and wait 8min3
+ 	-In Bergshamra, take line 177 at 16:18:33 to Solna Centrum (arriving at 16:28:53)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:28:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 3min33
+ 	-In Bergshamra, take line 177 at 16:18:33 to Solna Centrum (arriving at 16:28:53)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:29:30
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In Fridhemsplan, take line 11 at 16:23:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:38:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 13min33
+ 	-In Bergshamra, take line 176 at 16:28:33 to Solna Centrum (arriving at 16:38:53)    ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:14:00 to Solna Centrum (arriving at 16:23:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:09:00	Arrival Time :16:30:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Solna Centrum (arriving at 16:30:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:14:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:14:00 to T-Centralen (arriving at 16:21:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:19:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:19:00 to T-Centralen (arriving at 16:26:00)
+ 	-Walk 3 minutes and wait 1439min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:24:00	Arrival Time :16:44:00
+ 	-In Tekniska högskolan, take line 14 at 16:24:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:29:00	Arrival Time :16:51:00
+ 	-In Tekniska högskolan, take line 14 at 16:29:00 to T-Centralen (arriving at 16:36:00)
+ 	-Walk 3 minutes and wait 3min0
+ 	-In T-Centralen, take line 11 at 16:42:00 to Solna Centrum (arriving at 16:51:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:34:00	Arrival Time :16:58:00
+ 	-In Tekniska högskolan, take line 14 at 16:34:00 to T-Centralen (arriving at 16:41:00)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 11 at 16:49:00 to Solna Centrum (arriving at 16:58:00)     ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:23:45
+ Probability of success: 0.9852724719101124
+ Quantile 50: 16:23:45
+ Quantile 90: 16:24:53
+ Quantile 95: 16:25:27
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:01:01	Arrival Time :16:28:19
+ Probability of success: 1.0
+ Quantile 50: 16:28:31
+ Quantile 90: 16:32:08
+ Quantile 95: 16:33:29
+ 	-In Tekniska högskolan, take line 14 at 16:01:01 to Bergshamra (arriving at 16:06:12)
+ 	-Walk 5 minutes and wait 3min7
+ 	-In Bergshamra, take line 176 at 16:14:19 to Solna Centrum (arriving at 16:28:19)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:02:32	Arrival Time :16:30:45
+ Probability of success: 0.9032666666666667
+ Quantile 50: 16:30:53
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:06
+ 	-In Tekniska högskolan, take line 4 at 16:02:32 to Fridhemsplan (arriving at 16:19:11)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In Fridhemsplan, take line 11 at 16:24:41 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:09:30	Arrival Time :16:30:45
+ 	-In Tekniska högskolan, take line 14 at 16:09:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:01:01	Arrival Time :16:37:28
+ 	-In Tekniska högskolan, take line 14 at 16:01:01 to Bergshamra (arriving at 16:06:12)
+ 	-Walk 5 minutes and wait 12min21
+ 	-In Bergshamra, take line 177 at 16:23:33 to Solna Centrum (arriving at 16:37:28)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:37:28
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 6min26
+ 	-In Bergshamra, take line 177 at 16:23:33 to Solna Centrum (arriving at 16:37:28)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:23	Arrival Time :16:37:45
+ 	-In Tekniska högskolan, take line 4 at 16:05:23 to Fridhemsplan (arriving at 16:25:50)
+ 	-Walk 3 minutes and wait 2min40
+ 	-In Fridhemsplan, take line 11 at 16:31:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:48:01
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 17min12
+ 	-In Bergshamra, take line 176 at 16:34:19 to Solna Centrum (arriving at 16:48:01)    ]"
+1900-01-01 16:00:16,Solna Centrum,Tekniska högskolan,"[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:00:30	Arrival Time :16:25:00
+ 	-In Solna Centrum, take line 11 at 16:00:30 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 4 minutes and wait 4min30
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:02:08	Arrival Time :16:25:00
+ 	-In Solna Centrum, take line 177 at 16:02:08 to Bergshamra (arriving at 16:14:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:19:15 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:00:30	Arrival Time :16:26:00
+ 	-In Solna Centrum, take line 11 at 16:00:30 to Fridhemsplan (arriving at 16:06:00)
+ 	-Walk 3 minutes and wait 3min0
+ 	-In Fridhemsplan, take line 4 at 16:12:00 to Tekniska högskolan (arriving at 16:26:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:28:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:22:00 to Tekniska högskolan (arriving at 16:28:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to Fridhemsplan (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Fridhemsplan, take line 4 at 16:17:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:12:08	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 176 at 16:12:08 to Bergshamra (arriving at 16:24:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:00:00	Arrival Time :16:20:00
+ 	-In Solna Centrum, take line 11 at 16:00:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 0min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:00:00	Arrival Time :16:25:00
+ 	-In Solna Centrum, take line 11 at 16:00:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 5min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:00	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:14:00	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 11 at 16:14:00 to T-Centralen (arriving at 16:24:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:29:00 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:21:00	Arrival Time :16:45:00
+ 	-In Solna Centrum, take line 11 at 16:21:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 4 minutes and wait 4min0
+ 	-In T-Centralen, take line 14 at 16:39:00 to Tekniska högskolan (arriving at 16:45:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:28:00	Arrival Time :16:50:00
+ 	-In Solna Centrum, take line 11 at 16:28:00 to T-Centralen (arriving at 16:38:00)
+ 	-Walk 4 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:44:00 to Tekniska högskolan (arriving at 16:50:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:01:50	Arrival Time :16:25:00
+ Probability of success: 0.9959831460674158
+ Quantile 50: 16:25:27
+ Quantile 90: 16:26:38
+ Quantile 95: 16:27:08
+ 	-In Solna Centrum, take line 11 at 16:01:50 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:03:03	Arrival Time :16:29:30
+ Probability of success: 0.9377380952380953
+ Quantile 50: 16:29:30
+ Quantile 90: 16:30:05
+ Quantile 95: 16:30:20
+ 	-In Solna Centrum, take line 176 at 16:03:03 to Bergshamra (arriving at 16:15:13)
+ 	-Walk 5 minutes and wait 3min17
+ 	-In Bergshamra, take line 14 at 16:23:30 to Tekniska högskolan (arriving at 16:29:30)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:30:43
+ Probability of success: 0.9889671457905544
+ Quantile 50: 16:30:32
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:14
+ 	-In Solna Centrum, take line 11 at 16:08:20 to T-Centralen (arriving at 16:17:30)
+ 	-Walk 4 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:24:04 to Tekniska högskolan (arriving at 16:30:43)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:01:50	Arrival Time :16:33:56
+ 	-In Solna Centrum, take line 11 at 16:01:50 to Fridhemsplan (arriving at 16:07:06)
+ 	-Walk 3 minutes and wait 6min4
+ 	-In Fridhemsplan, take line 4 at 16:16:10 to Tekniska högskolan (arriving at 16:33:56)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:37:00
+ 	-In Solna Centrum, take line 11 at 16:08:20 to Fridhemsplan (arriving at 16:14:06)
+ 	-Walk 3 minutes and wait 2min55
+ 	-In Fridhemsplan, take line 4 at 16:20:01 to Tekniska högskolan (arriving at 16:37:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:11:16	Arrival Time :16:39:30
+ 	-In Solna Centrum, take line 177 at 16:11:16 to Bergshamra (arriving at 16:23:38)
+ 	-Walk 5 minutes and wait 4min52
+ 	-In Bergshamra, take line 14 at 16:33:30 to Tekniska högskolan (arriving at 16:39:30)]"
+1900-01-01 16:00:16,Globen,Solna Centrum,"[Itinerary from Globen to Solna Centrum
+ Departure Time :16:00:30	Arrival Time :16:26:30
+ 	-In Globen, take line 19 at 16:00:30 to T-Centralen (arriving at 16:12:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:17:30 to Solna Centrum (arriving at 16:26:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:01:30	Arrival Time :16:26:30
+ 	-In Globen, take line 19 at 16:01:30 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:17:30 to Solna Centrum (arriving at 16:26:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:00:30	Arrival Time :16:29:30
+ 	-In Globen, take line 19 at 16:00:30 to Fridhemsplan (arriving at 16:19:30)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Fridhemsplan, take line 11 at 16:23:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:01:30	Arrival Time :16:30:45
+ 	-In Globen, take line 19 at 16:01:30 to Fridhemsplan (arriving at 16:20:30)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Fridhemsplan, take line 11 at 16:24:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:00 to Solna Centrum (arriving at 16:45:00)]","[Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:30:00
+ 	-In Globen, take line 19 at 16:04:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Solna Centrum (arriving at 16:30:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:00	Arrival Time :16:37:00
+ 	-In Globen, take line 19 at 16:13:00 to T-Centralen (arriving at 16:25:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :15:58:00	Arrival Time :16:38:00
+ 	-In Globen, take line 30 at 15:58:00 to Solna Centrum (arriving at 16:38:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:41:00
+ 	-In Globen, take line 30 at 16:05:00 to Liljeholmen (arriving at 16:17:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In Liljeholmen, take line 152 at 16:20:00 to Solna Centrum (arriving at 16:41:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:00	Arrival Time :16:44:00
+ 	-In Globen, take line 19 at 16:13:00 to T-Centralen (arriving at 16:25:00)
+ 	-Walk 3 minutes and wait 7min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:14:00	Arrival Time :16:44:00
+ 	-In Globen, take line 30 at 16:14:00 to Gullmarsplan (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Gullmarsplan, take line 17 at 16:21:00 to T-Centralen (arriving at 16:30:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:00 to Solna Centrum (arriving at 16:45:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:11:00	Arrival Time :16:51:00
+ 	-In Globen, take line 30 at 16:11:00 to Solna Centrum (arriving at 16:51:00)]","[Itinerary from Globen to Solna Centrum
+ Departure Time :16:00:30	Arrival Time :16:30:45
+ Probability of success: 0.9890563798219585
+ Quantile 50: 16:30:45
+ Quantile 90: 16:31:54
+ Quantile 95: 16:32:30
+ 	-In Globen, take line 19 at 16:00:30 to T-Centralen (arriving at 16:12:00)
+ 	-Walk 3 minutes and wait 6min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:00:30	Arrival Time :16:30:45
+ Probability of success: 0.9814666666666667
+ Quantile 50: 16:30:53
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:06
+ 	-In Globen, take line 19 at 16:00:30 to Fridhemsplan (arriving at 16:19:30)
+ 	-Walk 3 minutes and wait 2min11
+ 	-In Fridhemsplan, take line 11 at 16:24:41 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:30:45
+ Probability of success: 0.9716142433234422
+ Quantile 50: 16:30:45
+ Quantile 90: 16:31:54
+ Quantile 95: 16:32:30
+ 	-In Globen, take line 19 at 16:04:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:37:45
+ 	-In Globen, take line 19 at 16:04:30 to Fridhemsplan (arriving at 16:23:30)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In Fridhemsplan, take line 11 at 16:31:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:00:50	Arrival Time :16:42:58
+ 	-In Globen, take line 30 at 16:00:50 to Solna Centrum (arriving at 16:42:58)]"
+1900-01-01 16:00:17,Solna Centrum,Globen,"[Itinerary from Solna Centrum to Globen
+ Departure Time :16:00:30	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:00:30 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In T-Centralen, take line 19 at 16:19:30 to Globen (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:00:30	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:00:30 to Fridhemsplan (arriving at 16:06:00)
+ 	-Walk 3 minutes and wait 2min15
+ 	-In Fridhemsplan, take line 19 at 16:11:15 to Globen (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:30	Arrival Time :16:31:45
+ 	-In Solna Centrum, take line 11 at 16:07:30 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 19 at 16:20:30 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:30	Arrival Time :16:36:45
+ 	-In Solna Centrum, take line 11 at 16:07:30 to Fridhemsplan (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In Fridhemsplan, take line 19 at 16:16:30 to Globen (arriving at 16:36:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:41:30
+ 	-In Solna Centrum, take line 30 at 16:02:00 to Globen (arriving at 16:41:30)]","[Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:21:00
+ 	-In Solna Centrum, take line 152 at 16:02:00 to Liljeholmen (arriving at 16:36:00)
+ 	-Walk 4 minutes and wait 1411min0
+ 	-In Liljeholmen, take line 30 at 16:11:00 to Globen (arriving at 16:21:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:00:00	Arrival Time :16:31:00
+ 	-In Solna Centrum, take line 11 at 16:00:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 7min0
+ 	-In T-Centralen, take line 19 at 16:20:00 to Globen (arriving at 16:31:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:00	Arrival Time :16:36:00
+ 	-In Solna Centrum, take line 11 at 16:07:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 19 at 16:25:00 to Globen (arriving at 16:36:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:41:00
+ 	-In Solna Centrum, take line 30 at 16:02:00 to Globen (arriving at 16:41:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:14:00	Arrival Time :16:44:00
+ 	-In Solna Centrum, take line 11 at 16:14:00 to T-Centralen (arriving at 16:24:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In T-Centralen, take line 19 at 16:33:00 to Globen (arriving at 16:44:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:09:00	Arrival Time :16:48:00
+ 	-In Solna Centrum, take line 30 at 16:09:00 to Globen (arriving at 16:48:00)]","[Itinerary from Solna Centrum to Globen
+ Departure Time :16:01:50	Arrival Time :16:31:45
+ Probability of success: 1.0
+ Quantile 50: 16:31:45
+ Quantile 90: 16:32:36
+ Quantile 95: 16:33:16
+ 	-In Solna Centrum, take line 11 at 16:01:50 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 6min30
+ 	-In T-Centralen, take line 19 at 16:20:30 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:01:50	Arrival Time :16:31:45
+ Probability of success: 0.9917122093023256
+ Quantile 50: 16:31:44
+ Quantile 90: 16:32:35
+ Quantile 95: 16:33:23
+ 	-In Solna Centrum, take line 11 at 16:01:50 to Fridhemsplan (arriving at 16:07:06)
+ 	-Walk 3 minutes and wait 1min28
+ 	-In Fridhemsplan, take line 19 at 16:11:34 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:08:20	Arrival Time :16:36:45
+ Probability of success: 0.9972303206997084
+ Quantile 50: 16:36:45
+ Quantile 90: 16:37:36
+ Quantile 95: 16:38:16
+ 	-In Solna Centrum, take line 11 at 16:08:20 to T-Centralen (arriving at 16:17:30)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 19 at 16:25:30 to Globen (arriving at 16:36:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:01	Arrival Time :16:44:22
+ 	-In Solna Centrum, take line 30 at 16:02:01 to Globen (arriving at 16:44:22)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:08:20	Arrival Time :16:44:23
+ 	-In Solna Centrum, take line 11 at 16:08:20 to Fridhemsplan (arriving at 16:14:06)
+ 	-Walk 3 minutes and wait 6min54
+ 	-In Fridhemsplan, take line 19 at 16:24:00 to Globen (arriving at 16:44:23)       ]"
+1900-01-01 16:00:55,Tekniska högskolan,Fridhemsplan,"[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:14:00
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 10 at 16:11:00 to Fridhemsplan (arriving at 16:14:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:00	Arrival Time :16:15:00
+ 	-In Tekniska högskolan, take line 4 at 16:01:00 to Fridhemsplan (arriving at 16:15:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 2 minutes and wait 0min30
+ 	-In T-Centralen, take line 17 at 16:10:00 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 2 minutes and wait 0min30
+ 	-In T-Centralen, take line 18 at 16:10:00 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 10 at 16:15:30 to Fridhemsplan (arriving at 16:18:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:01:30	Arrival Time :16:19:30
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 2 minutes and wait 2min30
+ 	-In T-Centralen, take line 19 at 16:12:00 to Fridhemsplan (arriving at 16:19:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 17 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 19 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 2min0
+ 	-In T-Centralen, take line 18 at 16:14:00 to Fridhemsplan (arriving at 16:21:30)      ]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :15:59:00	Arrival Time :16:14:00
+ 	-In Tekniska högskolan, take line 14 at 15:59:00 to T-Centralen (arriving at 16:06:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 10 at 16:11:00 to Fridhemsplan (arriving at 16:14:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :15:56:00	Arrival Time :16:14:00
+ 	-In Tekniska högskolan, take line 4 at 15:56:00 to Fridhemsplan (arriving at 16:14:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:17:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:14:00 to Fridhemsplan (arriving at 16:17:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:19:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Odenplan (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 4min0
+ 	-In Odenplan, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:19:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 1439min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:24:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Fridhemsplan (arriving at 16:24:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Tekniska högskolan, take line 4 at 16:09:00 to Fridhemsplan (arriving at 16:27:00)]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:17:41
+ Probability of success: 0.9920206718346253
+ Quantile 50: 16:18:04
+ Quantile 90: 16:18:40
+ Quantile 95: 16:19:03
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:04	Arrival Time :16:19:43
+ Probability of success: 1
+ Quantile 50: 16:21:00
+ Quantile 90: 16:25:03
+ Quantile 95: 16:26:45
+ 	-In Tekniska högskolan, take line 4 at 16:03:04 to Fridhemsplan (arriving at 16:19:43)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:21:00
+ Probability of success: 0.9914905660377359
+ Quantile 50: 16:21:24
+ Quantile 90: 16:21:57
+ Quantile 95: 16:22:13
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:22:12
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 1min27
+ 	-In T-Centralen, take line 18 at 16:14:27 to Fridhemsplan (arriving at 16:22:12)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:23:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 3min0
+ 	-In T-Centralen, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:23:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:24:41
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Fridhemsplan (arriving at 16:24:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:06:39	Arrival Time :16:25:50
+ 	-In Tekniska högskolan, take line 4 at 16:06:39 to Fridhemsplan (arriving at 16:25:50)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 2 minutes and wait 2min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:28:00
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In T-Centralen, take line 10 at 16:25:00 to Fridhemsplan (arriving at 16:28:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:30:06
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 2 minutes and wait 4min30
+ 	-In T-Centralen, take line 18 at 16:22:30 to Fridhemsplan (arriving at 16:30:06)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:32:30
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 19 at 16:25:00 to Fridhemsplan (arriving at 16:32:30)      ]"
+1900-01-01 16:00:55,Fridhemsplan,Tekniska högskolan,"[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:00	Arrival Time :16:17:00
+ 	-In Fridhemsplan, take line 4 at 16:01:00 to Tekniska högskolan (arriving at 16:17:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:15	Arrival Time :16:17:00
+ 	-In Fridhemsplan, take line 19 at 16:01:15 to T-Centralen (arriving at 16:09:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:11:00 to Tekniska högskolan (arriving at 16:17:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 18 at 16:01:30 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 10 at 16:02:30 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 11 at 16:03:00 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 4 at 16:04:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 18 at 16:01:30 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 10 at 16:02:30 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 11 at 16:03:00 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 17 at 16:09:00 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :15:59:00	Arrival Time :16:15:00
+ 	-In Fridhemsplan, take line 11 at 15:59:00 to T-Centralen (arriving at 16:03:00)
+ 	-Walk 4 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:09:00 to Tekniska högskolan (arriving at 16:15:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:00	Arrival Time :16:19:00
+ 	-In Fridhemsplan, take line 4 at 16:02:00 to Tekniska högskolan (arriving at 16:19:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:00	Arrival Time :16:20:00
+ 	-In Fridhemsplan, take line 11 at 16:06:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 0min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:22:00
+ 	-In Fridhemsplan, take line 19 at 16:04:00 to Odenplan (arriving at 16:07:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In Odenplan, take line 6 at 16:16:00 to Tekniska högskolan (arriving at 16:22:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:08:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 4 at 16:08:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 10 at 16:09:00 to T-Centralen (arriving at 16:14:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:13:00	Arrival Time :16:30:00
+ 	-In Fridhemsplan, take line 11 at 16:13:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:46	Arrival Time :16:20:36
+ Probability of success: 0.9852335640138409
+ Quantile 50: 16:20:59
+ Quantile 90: 16:22:05
+ Quantile 95: 16:22:37
+ 	-In Fridhemsplan, take line 18 at 16:01:46 to T-Centralen (arriving at 16:10:38)
+ 	-Walk 1 minutes and wait 3min6
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:07	Arrival Time :16:20:36
+ Probability of success: 0.991
+ Quantile 50: 16:20:59
+ Quantile 90: 16:22:05
+ Quantile 95: 16:22:37
+ 	-In Fridhemsplan, take line 10 at 16:04:07 to T-Centralen (arriving at 16:07:39)
+ 	-Walk 4 minutes and wait 3min5
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:10	Arrival Time :16:20:36
+ Probability of success: 0.9625692041522491
+ Quantile 50: 16:20:59
+ Quantile 90: 16:22:05
+ Quantile 95: 16:22:37
+ 	-In Fridhemsplan, take line 19 at 16:04:10 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:07	Arrival Time :16:20:36
+ 	-In Fridhemsplan, take line 10 at 16:04:07 to T-Centralen (arriving at 16:07:39)
+ 	-Walk 4 minutes and wait 3min5
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:10	Arrival Time :16:20:36
+ 	-In Fridhemsplan, take line 19 at 16:04:10 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:05	Arrival Time :16:21:05
+ 	-In Fridhemsplan, take line 4 at 16:04:05 to Tekniska högskolan (arriving at 16:21:05)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:30	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 18 at 16:06:30 to T-Centralen (arriving at 16:15:30)
+ 	-Walk 1 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)]"
+1900-01-01 16:00:56,Tekniska högskolan,Solna Centrum,"[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:01:30	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:01:30 to T-Centralen (arriving at 16:07:30)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:01:00	Arrival Time :16:26:30
+ 	-In Tekniska högskolan, take line 4 at 16:01:00 to Fridhemsplan (arriving at 16:15:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In Fridhemsplan, take line 11 at 16:20:30 to Solna Centrum (arriving at 16:26:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:28:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 3min33
+ 	-In Bergshamra, take line 177 at 16:18:33 to Solna Centrum (arriving at 16:28:53)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:29:30
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In Fridhemsplan, take line 11 at 16:23:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:38:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 13min33
+ 	-In Bergshamra, take line 176 at 16:28:33 to Solna Centrum (arriving at 16:38:53)    ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:14:00 to Solna Centrum (arriving at 16:23:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:09:00	Arrival Time :16:30:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Solna Centrum (arriving at 16:30:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:14:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:14:00 to T-Centralen (arriving at 16:21:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:19:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:19:00 to T-Centralen (arriving at 16:26:00)
+ 	-Walk 3 minutes and wait 1439min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:24:00	Arrival Time :16:44:00
+ 	-In Tekniska högskolan, take line 14 at 16:24:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:29:00	Arrival Time :16:51:00
+ 	-In Tekniska högskolan, take line 14 at 16:29:00 to T-Centralen (arriving at 16:36:00)
+ 	-Walk 3 minutes and wait 3min0
+ 	-In T-Centralen, take line 11 at 16:42:00 to Solna Centrum (arriving at 16:51:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:34:00	Arrival Time :16:58:00
+ 	-In Tekniska högskolan, take line 14 at 16:34:00 to T-Centralen (arriving at 16:41:00)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 11 at 16:49:00 to Solna Centrum (arriving at 16:58:00)     ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:23:45
+ Probability of success: 0.9920224089635854
+ Quantile 50: 16:23:45
+ Quantile 90: 16:24:53
+ Quantile 95: 16:25:27
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:03:04	Arrival Time :16:30:45
+ Probability of success: 0.8863333333333333
+ Quantile 50: 16:30:53
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:06
+ 	-In Tekniska högskolan, take line 4 at 16:03:04 to Fridhemsplan (arriving at 16:19:43)
+ 	-Walk 3 minutes and wait 1min58
+ 	-In Fridhemsplan, take line 11 at 16:24:41 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:10:17	Arrival Time :16:30:45
+ Probability of success: 0.9892492581602373
+ Quantile 50: 16:30:45
+ Quantile 90: 16:31:54
+ Quantile 95: 16:32:30
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:37:28
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 6min26
+ 	-In Bergshamra, take line 177 at 16:23:33 to Solna Centrum (arriving at 16:37:28)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:39	Arrival Time :16:37:45
+ 	-In Tekniska högskolan, take line 4 at 16:06:39 to Fridhemsplan (arriving at 16:25:50)
+ 	-Walk 3 minutes and wait 2min40
+ 	-In Fridhemsplan, take line 11 at 16:31:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:48:01
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 17min12
+ 	-In Bergshamra, take line 176 at 16:34:19 to Solna Centrum (arriving at 16:48:01)    ]"
+1900-01-01 16:00:56,Solna Centrum,Tekniska högskolan,"[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:02:08	Arrival Time :16:25:00
+ 	-In Solna Centrum, take line 177 at 16:02:08 to Bergshamra (arriving at 16:14:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:19:15 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:28:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:22:00 to Tekniska högskolan (arriving at 16:28:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to Fridhemsplan (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Fridhemsplan, take line 4 at 16:17:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:12:08	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 176 at 16:12:08 to Bergshamra (arriving at 16:24:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:22	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 177 at 16:07:22 to Bergshamra (arriving at 16:23:32)
+ 	-Walk 5 minutes and wait 0min43
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:12:08	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 176 at 16:12:08 to Bergshamra (arriving at 16:24:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:00:00	Arrival Time :16:20:00
+ 	-In Solna Centrum, take line 11 at 16:00:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 0min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:00:00	Arrival Time :16:25:00
+ 	-In Solna Centrum, take line 11 at 16:00:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 5min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:00	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:14:00	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 11 at 16:14:00 to T-Centralen (arriving at 16:24:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:29:00 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:21:00	Arrival Time :16:45:00
+ 	-In Solna Centrum, take line 11 at 16:21:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 4 minutes and wait 4min0
+ 	-In T-Centralen, take line 14 at 16:39:00 to Tekniska högskolan (arriving at 16:45:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:28:00	Arrival Time :16:50:00
+ 	-In Solna Centrum, take line 11 at 16:28:00 to T-Centralen (arriving at 16:38:00)
+ 	-Walk 4 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:44:00 to Tekniska högskolan (arriving at 16:50:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:01:50	Arrival Time :16:25:00
+ Probability of success: 0.9925858208955224
+ Quantile 50: 16:25:25
+ Quantile 90: 16:26:34
+ Quantile 95: 16:27:06
+ 	-In Solna Centrum, take line 11 at 16:01:50 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:03:03	Arrival Time :16:29:30
+ Probability of success: 0.9445119047619047
+ Quantile 50: 16:29:30
+ Quantile 90: 16:30:05
+ Quantile 95: 16:30:20
+ 	-In Solna Centrum, take line 176 at 16:03:03 to Bergshamra (arriving at 16:15:13)
+ 	-Walk 5 minutes and wait 3min17
+ 	-In Bergshamra, take line 14 at 16:23:30 to Tekniska högskolan (arriving at 16:29:30)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:30:43
+ Probability of success: 0.9916776180698152
+ Quantile 50: 16:30:32
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:14
+ 	-In Solna Centrum, take line 11 at 16:08:20 to T-Centralen (arriving at 16:17:30)
+ 	-Walk 4 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:24:04 to Tekniska högskolan (arriving at 16:30:43)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:01:50	Arrival Time :16:33:56
+ 	-In Solna Centrum, take line 11 at 16:01:50 to Fridhemsplan (arriving at 16:07:06)
+ 	-Walk 3 minutes and wait 6min4
+ 	-In Fridhemsplan, take line 4 at 16:16:10 to Tekniska högskolan (arriving at 16:33:56)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:37:00
+ 	-In Solna Centrum, take line 11 at 16:08:20 to Fridhemsplan (arriving at 16:14:06)
+ 	-Walk 3 minutes and wait 2min55
+ 	-In Fridhemsplan, take line 4 at 16:20:01 to Tekniska högskolan (arriving at 16:37:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:11:16	Arrival Time :16:39:30
+ 	-In Solna Centrum, take line 177 at 16:11:16 to Bergshamra (arriving at 16:23:38)
+ 	-Walk 5 minutes and wait 4min52
+ 	-In Bergshamra, take line 14 at 16:33:30 to Tekniska högskolan (arriving at 16:39:30)]"
+1900-01-01 16:00:57,Globen,Solna Centrum,"[Itinerary from Globen to Solna Centrum
+ Departure Time :16:01:30	Arrival Time :16:26:30
+ 	-In Globen, take line 19 at 16:01:30 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:17:30 to Solna Centrum (arriving at 16:26:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:29:30
+ 	-In Globen, take line 19 at 16:04:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:20:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:01:30	Arrival Time :16:30:45
+ 	-In Globen, take line 19 at 16:01:30 to Fridhemsplan (arriving at 16:20:30)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Fridhemsplan, take line 11 at 16:24:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:36:30
+ 	-In Globen, take line 19 at 16:04:30 to Fridhemsplan (arriving at 16:23:30)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In Fridhemsplan, take line 11 at 16:30:30 to Solna Centrum (arriving at 16:36:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:00 to Solna Centrum (arriving at 16:45:00)]","[Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:30:00
+ 	-In Globen, take line 19 at 16:04:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Solna Centrum (arriving at 16:30:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:41:00
+ 	-In Globen, take line 30 at 16:05:00 to Liljeholmen (arriving at 16:17:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In Liljeholmen, take line 152 at 16:20:00 to Solna Centrum (arriving at 16:41:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:00	Arrival Time :16:44:00
+ 	-In Globen, take line 19 at 16:13:00 to T-Centralen (arriving at 16:25:00)
+ 	-Walk 3 minutes and wait 7min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:14:00	Arrival Time :16:44:00
+ 	-In Globen, take line 30 at 16:14:00 to Gullmarsplan (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Gullmarsplan, take line 17 at 16:21:00 to T-Centralen (arriving at 16:30:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:00 to Solna Centrum (arriving at 16:45:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:11:00	Arrival Time :16:51:00
+ 	-In Globen, take line 30 at 16:11:00 to Solna Centrum (arriving at 16:51:00)]","[Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:30:45
+ Probability of success: 0.9385163204747774
+ Quantile 50: 16:30:45
+ Quantile 90: 16:31:54
+ Quantile 95: 16:32:30
+ 	-In Globen, take line 19 at 16:04:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:37:45
+ Probability of success: 0.9896
+ Quantile 50: 16:37:42
+ Quantile 90: 16:38:34
+ Quantile 95: 16:38:55
+ 	-In Globen, take line 19 at 16:04:30 to Fridhemsplan (arriving at 16:23:30)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In Fridhemsplan, take line 11 at 16:31:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:30	Arrival Time :16:37:45
+ Probability of success: 0.9361246290801187
+ Quantile 50: 16:37:45
+ Quantile 90: 16:38:54
+ Quantile 95: 16:39:30
+ 	-In Globen, take line 19 at 16:13:30 to T-Centralen (arriving at 16:25:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:28:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:30	Arrival Time :16:44:45
+ 	-In Globen, take line 19 at 16:13:30 to Fridhemsplan (arriving at 16:32:30)
+ 	-Walk 3 minutes and wait 3min11
+ 	-In Fridhemsplan, take line 11 at 16:38:41 to Solna Centrum (arriving at 16:44:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:05	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:05 to Solna Centrum (arriving at 16:45:00)]"
+1900-01-01 16:00:57,Solna Centrum,Globen,"[Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:30	Arrival Time :16:31:45
+ 	-In Solna Centrum, take line 11 at 16:07:30 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 19 at 16:20:30 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:30	Arrival Time :16:36:45
+ 	-In Solna Centrum, take line 11 at 16:07:30 to Fridhemsplan (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In Fridhemsplan, take line 19 at 16:16:30 to Globen (arriving at 16:36:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:14:30	Arrival Time :16:40:00
+ 	-In Solna Centrum, take line 11 at 16:14:30 to T-Centralen (arriving at 16:24:30)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 19 at 16:29:30 to Globen (arriving at 16:40:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:41:30
+ 	-In Solna Centrum, take line 30 at 16:02:00 to Globen (arriving at 16:41:30)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:14:30	Arrival Time :16:42:30
+ 	-In Solna Centrum, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:20:00)
+ 	-Walk 3 minutes and wait 0min45
+ 	-In Fridhemsplan, take line 19 at 16:23:45 to Globen (arriving at 16:42:30)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:09:00	Arrival Time :16:48:30
+ 	-In Solna Centrum, take line 30 at 16:09:00 to Globen (arriving at 16:48:30)]","[Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:21:00
+ 	-In Solna Centrum, take line 152 at 16:02:00 to Liljeholmen (arriving at 16:36:00)
+ 	-Walk 4 minutes and wait 1411min0
+ 	-In Liljeholmen, take line 30 at 16:11:00 to Globen (arriving at 16:21:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:00:00	Arrival Time :16:31:00
+ 	-In Solna Centrum, take line 11 at 16:00:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 7min0
+ 	-In T-Centralen, take line 19 at 16:20:00 to Globen (arriving at 16:31:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:00	Arrival Time :16:36:00
+ 	-In Solna Centrum, take line 11 at 16:07:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 19 at 16:25:00 to Globen (arriving at 16:36:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:41:00
+ 	-In Solna Centrum, take line 30 at 16:02:00 to Globen (arriving at 16:41:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:14:00	Arrival Time :16:44:00
+ 	-In Solna Centrum, take line 11 at 16:14:00 to T-Centralen (arriving at 16:24:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In T-Centralen, take line 19 at 16:33:00 to Globen (arriving at 16:44:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:09:00	Arrival Time :16:48:00
+ 	-In Solna Centrum, take line 30 at 16:09:00 to Globen (arriving at 16:48:00)]","[Itinerary from Solna Centrum to Globen
+ Departure Time :16:01:50	Arrival Time :16:31:45
+ Probability of success: 0.9990668604651163
+ Quantile 50: 16:31:45
+ Quantile 90: 16:32:36
+ Quantile 95: 16:33:16
+ 	-In Solna Centrum, take line 11 at 16:01:50 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 6min30
+ 	-In T-Centralen, take line 19 at 16:20:30 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:01:50	Arrival Time :16:31:45
+ Probability of success: 0.993700288184438
+ Quantile 50: 16:31:45
+ Quantile 90: 16:32:35
+ Quantile 95: 16:33:23
+ 	-In Solna Centrum, take line 11 at 16:01:50 to Fridhemsplan (arriving at 16:07:06)
+ 	-Walk 3 minutes and wait 1min28
+ 	-In Fridhemsplan, take line 19 at 16:11:34 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:08:20	Arrival Time :16:36:45
+ Probability of success: 1.0
+ Quantile 50: 16:36:45
+ Quantile 90: 16:37:36
+ Quantile 95: 16:38:16
+ 	-In Solna Centrum, take line 11 at 16:08:20 to T-Centralen (arriving at 16:17:30)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 19 at 16:25:30 to Globen (arriving at 16:36:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:01	Arrival Time :16:44:22
+ 	-In Solna Centrum, take line 30 at 16:02:01 to Globen (arriving at 16:44:22)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:08:20	Arrival Time :16:44:23
+ 	-In Solna Centrum, take line 11 at 16:08:20 to Fridhemsplan (arriving at 16:14:06)
+ 	-Walk 3 minutes and wait 6min54
+ 	-In Fridhemsplan, take line 19 at 16:24:00 to Globen (arriving at 16:44:23)       ]"
+1900-01-01 16:01:37,Tekniska högskolan,Fridhemsplan,"[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 10 at 16:15:30 to Fridhemsplan (arriving at 16:18:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:18:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 10 at 16:15:30 to Fridhemsplan (arriving at 16:18:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 17 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 19 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 2min0
+ 	-In T-Centralen, take line 18 at 16:14:00 to Fridhemsplan (arriving at 16:21:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:21:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 18 at 16:14:00 to Fridhemsplan (arriving at 16:21:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:08:00	Arrival Time :16:22:00
+ 	-In Tekniska högskolan, take line 4 at 16:08:00 to Fridhemsplan (arriving at 16:22:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:23:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 3min0
+ 	-In T-Centralen, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:23:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:27:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:30)      ]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :15:56:00	Arrival Time :16:14:00
+ 	-In Tekniska högskolan, take line 4 at 15:56:00 to Fridhemsplan (arriving at 16:14:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:17:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:14:00 to Fridhemsplan (arriving at 16:17:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:19:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Odenplan (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 4min0
+ 	-In Odenplan, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:19:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 1439min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:24:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Fridhemsplan (arriving at 16:24:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Tekniska högskolan, take line 4 at 16:09:00 to Fridhemsplan (arriving at 16:27:00)]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:17:41
+ Probability of success: 0.9900747422680413
+ Quantile 50: 16:18:04
+ Quantile 90: 16:18:40
+ Quantile 95: 16:19:03
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:04	Arrival Time :16:19:43
+ Probability of success: 1
+ Quantile 50: 16:20:58
+ Quantile 90: 16:24:58
+ Quantile 95: 16:26:39
+ 	-In Tekniska högskolan, take line 4 at 16:03:04 to Fridhemsplan (arriving at 16:19:43)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:21:00
+ Probability of success: 0.9974025974025974
+ Quantile 50: 16:21:24
+ Quantile 90: 16:21:57
+ Quantile 95: 16:22:13
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:22:12
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 1min27
+ 	-In T-Centralen, take line 18 at 16:14:27 to Fridhemsplan (arriving at 16:22:12)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:23:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 3min0
+ 	-In T-Centralen, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:23:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:24:41
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:30 to Fridhemsplan (arriving at 16:24:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:06:39	Arrival Time :16:25:50
+ 	-In Tekniska högskolan, take line 4 at 16:06:39 to Fridhemsplan (arriving at 16:25:50)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 2 minutes and wait 1min30
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:28:00
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 3 minutes and wait 5min30
+ 	-In T-Centralen, take line 10 at 16:25:00 to Fridhemsplan (arriving at 16:28:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:30:06
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 2 minutes and wait 4min0
+ 	-In T-Centralen, take line 18 at 16:22:30 to Fridhemsplan (arriving at 16:30:06)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:32:30
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 2 minutes and wait 6min30
+ 	-In T-Centralen, take line 19 at 16:25:00 to Fridhemsplan (arriving at 16:32:30)      ]"
+1900-01-01 16:01:37,Fridhemsplan,Tekniska högskolan,"[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 4 at 16:04:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 10 at 16:02:30 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 11 at 16:03:00 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:45	Arrival Time :16:20:00
+ 	-In Fridhemsplan, take line 19 at 16:03:45 to T-Centralen (arriving at 16:12:00)
+ 	-Walk 1 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:00	Arrival Time :16:20:00
+ 	-In Fridhemsplan, take line 4 at 16:07:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:45	Arrival Time :16:20:30
+ 	-In Fridhemsplan, take line 18 at 16:04:45 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:14:30 to Tekniska högskolan (arriving at 16:20:30)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:08:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 10 at 16:08:00 to T-Centralen (arriving at 16:12:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:06:00 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 4 minutes and wait 4min30
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 17 at 16:09:00 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:11:15	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 19 at 16:11:15 to T-Centralen (arriving at 16:19:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 17 at 16:09:00 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:00	Arrival Time :16:19:00
+ 	-In Fridhemsplan, take line 4 at 16:02:00 to Tekniska högskolan (arriving at 16:19:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:00	Arrival Time :16:20:00
+ 	-In Fridhemsplan, take line 11 at 16:06:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 0min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:22:00
+ 	-In Fridhemsplan, take line 19 at 16:04:00 to Odenplan (arriving at 16:07:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In Odenplan, take line 6 at 16:16:00 to Tekniska högskolan (arriving at 16:22:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:08:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 4 at 16:08:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 10 at 16:09:00 to T-Centralen (arriving at 16:14:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:13:00	Arrival Time :16:30:00
+ 	-In Fridhemsplan, take line 11 at 16:13:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:01:46	Arrival Time :16:20:36
+ Probability of success: 0.9901851211072664
+ Quantile 50: 16:20:58
+ Quantile 90: 16:22:03
+ Quantile 95: 16:22:35
+ 	-In Fridhemsplan, take line 18 at 16:01:46 to T-Centralen (arriving at 16:10:38)
+ 	-Walk 1 minutes and wait 3min6
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:07	Arrival Time :16:20:36
+ Probability of success: 0.9900051903114186
+ Quantile 50: 16:20:58
+ Quantile 90: 16:22:03
+ Quantile 95: 16:22:35
+ 	-In Fridhemsplan, take line 10 at 16:04:07 to T-Centralen (arriving at 16:07:39)
+ 	-Walk 4 minutes and wait 3min5
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:10	Arrival Time :16:20:36
+ Probability of success: 0.9622162629757786
+ Quantile 50: 16:20:58
+ Quantile 90: 16:22:03
+ Quantile 95: 16:22:35
+ 	-In Fridhemsplan, take line 19 at 16:04:10 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:07	Arrival Time :16:20:36
+ 	-In Fridhemsplan, take line 10 at 16:04:07 to T-Centralen (arriving at 16:07:39)
+ 	-Walk 4 minutes and wait 3min5
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:10	Arrival Time :16:20:36
+ 	-In Fridhemsplan, take line 19 at 16:04:10 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:05	Arrival Time :16:21:05
+ 	-In Fridhemsplan, take line 4 at 16:04:05 to Tekniska högskolan (arriving at 16:21:05)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:36	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 18 at 16:06:36 to T-Centralen (arriving at 16:15:30)
+ 	-Walk 1 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)]"
+1900-01-01 16:01:38,Tekniska högskolan,Solna Centrum,"[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:28:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 3min33
+ 	-In Bergshamra, take line 177 at 16:18:33 to Solna Centrum (arriving at 16:28:53)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:29:30
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In Fridhemsplan, take line 11 at 16:23:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:08:00	Arrival Time :16:36:30
+ 	-In Tekniska högskolan, take line 4 at 16:08:00 to Fridhemsplan (arriving at 16:22:00)
+ 	-Walk 3 minutes and wait 5min30
+ 	-In Fridhemsplan, take line 11 at 16:30:30 to Solna Centrum (arriving at 16:36:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:38:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 13min33
+ 	-In Bergshamra, take line 176 at 16:28:33 to Solna Centrum (arriving at 16:38:53)    ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:14:00 to Solna Centrum (arriving at 16:23:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:09:00	Arrival Time :16:30:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Solna Centrum (arriving at 16:30:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:14:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:14:00 to T-Centralen (arriving at 16:21:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:19:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:19:00 to T-Centralen (arriving at 16:26:00)
+ 	-Walk 3 minutes and wait 1439min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:24:00	Arrival Time :16:44:00
+ 	-In Tekniska högskolan, take line 14 at 16:24:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:29:00	Arrival Time :16:51:00
+ 	-In Tekniska högskolan, take line 14 at 16:29:00 to T-Centralen (arriving at 16:36:00)
+ 	-Walk 3 minutes and wait 3min0
+ 	-In T-Centralen, take line 11 at 16:42:00 to Solna Centrum (arriving at 16:51:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:34:00	Arrival Time :16:58:00
+ 	-In Tekniska högskolan, take line 14 at 16:34:00 to T-Centralen (arriving at 16:41:00)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 11 at 16:49:00 to Solna Centrum (arriving at 16:58:00)     ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:23:45
+ Probability of success: 0.9900810055865922
+ Quantile 50: 16:23:45
+ Quantile 90: 16:24:53
+ Quantile 95: 16:25:27
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:03:04	Arrival Time :16:30:45
+ Probability of success: 0.8994666666666666
+ Quantile 50: 16:30:53
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:06
+ 	-In Tekniska högskolan, take line 4 at 16:03:04 to Fridhemsplan (arriving at 16:19:43)
+ 	-Walk 3 minutes and wait 1min58
+ 	-In Fridhemsplan, take line 11 at 16:24:41 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:10:17	Arrival Time :16:30:45
+ Probability of success: 0.9874747774480712
+ Quantile 50: 16:30:45
+ Quantile 90: 16:31:54
+ Quantile 95: 16:32:30
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:37:28
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 6min26
+ 	-In Bergshamra, take line 177 at 16:23:33 to Solna Centrum (arriving at 16:37:28)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:39	Arrival Time :16:37:45
+ 	-In Tekniska högskolan, take line 4 at 16:06:39 to Fridhemsplan (arriving at 16:25:50)
+ 	-Walk 3 minutes and wait 2min40
+ 	-In Fridhemsplan, take line 11 at 16:31:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:48:01
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 17min12
+ 	-In Bergshamra, take line 176 at 16:34:19 to Solna Centrum (arriving at 16:48:01)    ]"
+1900-01-01 16:01:38,Solna Centrum,Tekniska högskolan,"[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:02:08	Arrival Time :16:25:00
+ 	-In Solna Centrum, take line 177 at 16:02:08 to Bergshamra (arriving at 16:14:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:19:15 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:28:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:22:00 to Tekniska högskolan (arriving at 16:28:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to Fridhemsplan (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Fridhemsplan, take line 4 at 16:17:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:12:08	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 176 at 16:12:08 to Bergshamra (arriving at 16:24:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:22	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 177 at 16:07:22 to Bergshamra (arriving at 16:23:32)
+ 	-Walk 5 minutes and wait 0min43
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:12:08	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 176 at 16:12:08 to Bergshamra (arriving at 16:24:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:00	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:14:00	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 11 at 16:14:00 to T-Centralen (arriving at 16:24:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:29:00 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:21:00	Arrival Time :16:45:00
+ 	-In Solna Centrum, take line 11 at 16:21:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 4 minutes and wait 4min0
+ 	-In T-Centralen, take line 14 at 16:39:00 to Tekniska högskolan (arriving at 16:45:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:28:00	Arrival Time :16:50:00
+ 	-In Solna Centrum, take line 11 at 16:28:00 to T-Centralen (arriving at 16:38:00)
+ 	-Walk 4 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:44:00 to Tekniska högskolan (arriving at 16:50:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:35:00	Arrival Time :17:00:00
+ 	-In Solna Centrum, take line 11 at 16:35:00 to T-Centralen (arriving at 16:45:00)
+ 	-Walk 4 minutes and wait 5min0
+ 	-In T-Centralen, take line 14 at 16:54:00 to Tekniska högskolan (arriving at 17:00:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:01:50	Arrival Time :16:25:00
+ Probability of success: 0.9926884328358209
+ Quantile 50: 16:25:24
+ Quantile 90: 16:26:30
+ Quantile 95: 16:27:03
+ 	-In Solna Centrum, take line 11 at 16:01:50 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:03:03	Arrival Time :16:29:30
+ Probability of success: 0.945202380952381
+ Quantile 50: 16:29:30
+ Quantile 90: 16:30:05
+ Quantile 95: 16:30:20
+ 	-In Solna Centrum, take line 176 at 16:03:03 to Bergshamra (arriving at 16:15:13)
+ 	-Walk 5 minutes and wait 3min17
+ 	-In Bergshamra, take line 14 at 16:23:30 to Tekniska högskolan (arriving at 16:29:30)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:30:43
+ Probability of success: 0.9902094455852156
+ Quantile 50: 16:30:32
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:14
+ 	-In Solna Centrum, take line 11 at 16:08:20 to T-Centralen (arriving at 16:17:30)
+ 	-Walk 4 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:24:04 to Tekniska högskolan (arriving at 16:30:43)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:01:50	Arrival Time :16:33:56
+ 	-In Solna Centrum, take line 11 at 16:01:50 to Fridhemsplan (arriving at 16:07:06)
+ 	-Walk 3 minutes and wait 6min4
+ 	-In Fridhemsplan, take line 4 at 16:16:10 to Tekniska högskolan (arriving at 16:33:56)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:37:00
+ 	-In Solna Centrum, take line 11 at 16:08:20 to Fridhemsplan (arriving at 16:14:06)
+ 	-Walk 3 minutes and wait 2min55
+ 	-In Fridhemsplan, take line 4 at 16:20:01 to Tekniska högskolan (arriving at 16:37:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:11:16	Arrival Time :16:39:30
+ 	-In Solna Centrum, take line 177 at 16:11:16 to Bergshamra (arriving at 16:23:38)
+ 	-Walk 5 minutes and wait 4min52
+ 	-In Bergshamra, take line 14 at 16:33:30 to Tekniska högskolan (arriving at 16:39:30)]"
+1900-01-01 16:01:39,Globen,Solna Centrum,"[Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:29:30
+ 	-In Globen, take line 19 at 16:04:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:20:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:29:30
+ 	-In Globen, take line 19 at 16:05:00 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In T-Centralen, take line 11 at 16:20:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:36:30
+ 	-In Globen, take line 19 at 16:04:30 to Fridhemsplan (arriving at 16:23:30)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In Fridhemsplan, take line 11 at 16:30:30 to Solna Centrum (arriving at 16:36:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:36:30
+ 	-In Globen, take line 19 at 16:05:00 to Fridhemsplan (arriving at 16:24:00)
+ 	-Walk 3 minutes and wait 3min30
+ 	-In Fridhemsplan, take line 11 at 16:30:30 to Solna Centrum (arriving at 16:36:30)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:00 to Solna Centrum (arriving at 16:45:00)]","[Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:30:00
+ 	-In Globen, take line 19 at 16:04:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Solna Centrum (arriving at 16:30:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:00	Arrival Time :16:37:00
+ 	-In Globen, take line 19 at 16:13:00 to T-Centralen (arriving at 16:25:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :15:58:00	Arrival Time :16:38:00
+ 	-In Globen, take line 30 at 15:58:00 to Solna Centrum (arriving at 16:38:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:41:00
+ 	-In Globen, take line 30 at 16:05:00 to Liljeholmen (arriving at 16:17:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In Liljeholmen, take line 152 at 16:20:00 to Solna Centrum (arriving at 16:41:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:00	Arrival Time :16:44:00
+ 	-In Globen, take line 19 at 16:13:00 to T-Centralen (arriving at 16:25:00)
+ 	-Walk 3 minutes and wait 7min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:14:00	Arrival Time :16:44:00
+ 	-In Globen, take line 30 at 16:14:00 to Gullmarsplan (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Gullmarsplan, take line 17 at 16:21:00 to T-Centralen (arriving at 16:30:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:00 to Solna Centrum (arriving at 16:45:00)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:11:00	Arrival Time :16:51:00
+ 	-In Globen, take line 30 at 16:11:00 to Solna Centrum (arriving at 16:51:00)]","[Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:30:45
+ Probability of success: 0.9714124629080119
+ Quantile 50: 16:30:45
+ Quantile 90: 16:31:54
+ Quantile 95: 16:32:30
+ 	-In Globen, take line 19 at 16:04:30 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:37:45
+ Probability of success: 0.9890666666666666
+ Quantile 50: 16:37:42
+ Quantile 90: 16:38:34
+ Quantile 95: 16:38:55
+ 	-In Globen, take line 19 at 16:04:30 to Fridhemsplan (arriving at 16:23:30)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In Fridhemsplan, take line 11 at 16:31:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:30	Arrival Time :16:37:45
+ Probability of success: 0.9312818991097923
+ Quantile 50: 16:37:45
+ Quantile 90: 16:38:54
+ Quantile 95: 16:39:30
+ 	-In Globen, take line 19 at 16:13:30 to T-Centralen (arriving at 16:25:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:28:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:13:30	Arrival Time :16:44:45
+ 	-In Globen, take line 19 at 16:13:30 to Fridhemsplan (arriving at 16:32:30)
+ 	-Walk 3 minutes and wait 3min11
+ 	-In Fridhemsplan, take line 11 at 16:38:41 to Solna Centrum (arriving at 16:44:45)
+ Itinerary from Globen to Solna Centrum
+ Departure Time :16:05:05	Arrival Time :16:45:00
+ 	-In Globen, take line 30 at 16:05:05 to Solna Centrum (arriving at 16:45:00)]"
+1900-01-01 16:01:39,Solna Centrum,Globen,"[Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:30	Arrival Time :16:31:45
+ 	-In Solna Centrum, take line 11 at 16:07:30 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 19 at 16:20:30 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:30	Arrival Time :16:36:45
+ 	-In Solna Centrum, take line 11 at 16:07:30 to Fridhemsplan (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In Fridhemsplan, take line 19 at 16:16:30 to Globen (arriving at 16:36:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:14:30	Arrival Time :16:40:00
+ 	-In Solna Centrum, take line 11 at 16:14:30 to T-Centralen (arriving at 16:24:30)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 19 at 16:29:30 to Globen (arriving at 16:40:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:41:30
+ 	-In Solna Centrum, take line 30 at 16:02:00 to Globen (arriving at 16:41:30)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:14:30	Arrival Time :16:42:30
+ 	-In Solna Centrum, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:20:00)
+ 	-Walk 3 minutes and wait 0min45
+ 	-In Fridhemsplan, take line 19 at 16:23:45 to Globen (arriving at 16:42:30)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:09:00	Arrival Time :16:48:30
+ 	-In Solna Centrum, take line 30 at 16:09:00 to Globen (arriving at 16:48:30)]","[Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:21:00
+ 	-In Solna Centrum, take line 152 at 16:02:00 to Liljeholmen (arriving at 16:36:00)
+ 	-Walk 4 minutes and wait 1411min0
+ 	-In Liljeholmen, take line 30 at 16:11:00 to Globen (arriving at 16:21:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:07:00	Arrival Time :16:36:00
+ 	-In Solna Centrum, take line 11 at 16:07:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 19 at 16:25:00 to Globen (arriving at 16:36:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:00	Arrival Time :16:41:00
+ 	-In Solna Centrum, take line 30 at 16:02:00 to Globen (arriving at 16:41:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:14:00	Arrival Time :16:44:00
+ 	-In Solna Centrum, take line 11 at 16:14:00 to T-Centralen (arriving at 16:24:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In T-Centralen, take line 19 at 16:33:00 to Globen (arriving at 16:44:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:09:00	Arrival Time :16:48:00
+ 	-In Solna Centrum, take line 30 at 16:09:00 to Globen (arriving at 16:48:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:21:00	Arrival Time :16:51:00
+ 	-In Solna Centrum, take line 11 at 16:21:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In T-Centralen, take line 19 at 16:40:00 to Globen (arriving at 16:51:00)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:15:00	Arrival Time :16:54:00
+ 	-In Solna Centrum, take line 30 at 16:15:00 to Globen (arriving at 16:54:00)]","[Itinerary from Solna Centrum to Globen
+ Departure Time :16:01:50	Arrival Time :16:31:45
+ Probability of success: 0.9999941860465116
+ Quantile 50: 16:31:45
+ Quantile 90: 16:32:36
+ Quantile 95: 16:33:16
+ 	-In Solna Centrum, take line 11 at 16:01:50 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 6min30
+ 	-In T-Centralen, take line 19 at 16:20:30 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:01:50	Arrival Time :16:31:45
+ Probability of success: 0.9955907780979827
+ Quantile 50: 16:31:45
+ Quantile 90: 16:32:35
+ Quantile 95: 16:33:21
+ 	-In Solna Centrum, take line 11 at 16:01:50 to Fridhemsplan (arriving at 16:07:06)
+ 	-Walk 3 minutes and wait 1min28
+ 	-In Fridhemsplan, take line 19 at 16:11:34 to Globen (arriving at 16:31:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:08:20	Arrival Time :16:36:45
+ Probability of success: 0.9980845481049563
+ Quantile 50: 16:36:45
+ Quantile 90: 16:37:36
+ Quantile 95: 16:38:16
+ 	-In Solna Centrum, take line 11 at 16:08:20 to T-Centralen (arriving at 16:17:30)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 19 at 16:25:30 to Globen (arriving at 16:36:45)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:02:01	Arrival Time :16:44:22
+ 	-In Solna Centrum, take line 30 at 16:02:01 to Globen (arriving at 16:44:22)
+ Itinerary from Solna Centrum to Globen
+ Departure Time :16:08:20	Arrival Time :16:44:23
+ 	-In Solna Centrum, take line 11 at 16:08:20 to Fridhemsplan (arriving at 16:14:06)
+ 	-Walk 3 minutes and wait 6min54
+ 	-In Fridhemsplan, take line 19 at 16:24:00 to Globen (arriving at 16:44:23)       ]"
+1900-01-01 16:02:16,Tekniska högskolan,Fridhemsplan,"[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:17:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:18:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In T-Centralen, take line 10 at 16:15:30 to Fridhemsplan (arriving at 16:18:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:18:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 10 at 16:15:30 to Fridhemsplan (arriving at 16:18:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 17 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:20:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 19 at 16:13:00 to Fridhemsplan (arriving at 16:20:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 2min0
+ 	-In T-Centralen, take line 18 at 16:14:00 to Fridhemsplan (arriving at 16:21:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:21:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 1min0
+ 	-In T-Centralen, take line 18 at 16:14:00 to Fridhemsplan (arriving at 16:21:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:08:00	Arrival Time :16:22:00
+ 	-In Tekniska högskolan, take line 4 at 16:08:00 to Fridhemsplan (arriving at 16:22:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:23:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 3min0
+ 	-In T-Centralen, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:23:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:05:00	Arrival Time :16:27:30
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:30)      ]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:19:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Odenplan (arriving at 16:10:00)
+ 	-Walk 2 minutes and wait 4min0
+ 	-In Odenplan, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:19:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 4 at 16:03:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:00	Arrival Time :16:21:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:24:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Fridhemsplan (arriving at 16:24:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Tekniska högskolan, take line 4 at 16:09:00 to Fridhemsplan (arriving at 16:27:00)]","[Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:17:41
+ Probability of success: 0.9900725
+ Quantile 50: 16:18:04
+ Quantile 90: 16:18:40
+ Quantile 95: 16:19:01
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:17:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:03:04	Arrival Time :16:19:43
+ Probability of success: 1
+ Quantile 50: 16:20:51
+ Quantile 90: 16:24:46
+ Quantile 95: 16:26:26
+ 	-In Tekniska högskolan, take line 4 at 16:03:04 to Fridhemsplan (arriving at 16:19:43)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:21:00
+ Probability of success: 0.9974093264248705
+ Quantile 50: 16:21:24
+ Quantile 90: 16:21:57
+ Quantile 95: 16:22:12
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 10 at 16:18:00 to Fridhemsplan (arriving at 16:21:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:22:12
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 1min27
+ 	-In T-Centralen, take line 18 at 16:14:27 to Fridhemsplan (arriving at 16:22:12)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:23:30
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 3min0
+ 	-In T-Centralen, take line 19 at 16:16:00 to Fridhemsplan (arriving at 16:23:30)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:24:41
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:30 to Fridhemsplan (arriving at 16:24:41)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:07:39	Arrival Time :16:25:50
+ 	-In Tekniska högskolan, take line 4 at 16:07:39 to Fridhemsplan (arriving at 16:25:50)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:04:30	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 2 minutes and wait 7min0
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:27:34
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 2 minutes and wait 1min30
+ 	-In T-Centralen, take line 17 at 16:20:00 to Fridhemsplan (arriving at 16:27:34)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:28:00
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 3 minutes and wait 5min30
+ 	-In T-Centralen, take line 10 at 16:25:00 to Fridhemsplan (arriving at 16:28:00)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:30:06
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 2 minutes and wait 4min0
+ 	-In T-Centralen, take line 18 at 16:22:30 to Fridhemsplan (arriving at 16:30:06)
+ Itinerary from Tekniska högskolan to Fridhemsplan
+ Departure Time :16:10:17	Arrival Time :16:32:30
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 2 minutes and wait 6min30
+ 	-In T-Centralen, take line 19 at 16:25:00 to Fridhemsplan (arriving at 16:32:30)      ]"
+1900-01-01 16:02:16,Fridhemsplan,Tekniska högskolan,"[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 4 at 16:04:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:30	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 10 at 16:02:30 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:00	Arrival Time :16:18:00
+ 	-In Fridhemsplan, take line 11 at 16:03:00 to T-Centralen (arriving at 16:07:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:12:00 to Tekniska högskolan (arriving at 16:18:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:03:45	Arrival Time :16:20:00
+ 	-In Fridhemsplan, take line 19 at 16:03:45 to T-Centralen (arriving at 16:12:00)
+ 	-Walk 1 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:00	Arrival Time :16:20:00
+ 	-In Fridhemsplan, take line 4 at 16:07:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:45	Arrival Time :16:20:30
+ 	-In Fridhemsplan, take line 18 at 16:04:45 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:14:30 to Tekniska högskolan (arriving at 16:20:30)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:08:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 10 at 16:08:00 to T-Centralen (arriving at 16:12:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:06:00 to T-Centralen (arriving at 16:10:30)
+ 	-Walk 4 minutes and wait 4min30
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 17 at 16:09:00 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:11:15	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 19 at 16:11:15 to T-Centralen (arriving at 16:19:30)
+ 	-Walk 1 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:27:00
+ 	-In Fridhemsplan, take line 17 at 16:09:00 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:21:00 to Tekniska högskolan (arriving at 16:27:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:02:00	Arrival Time :16:19:00
+ 	-In Fridhemsplan, take line 4 at 16:02:00 to Tekniska högskolan (arriving at 16:19:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:00	Arrival Time :16:20:00
+ 	-In Fridhemsplan, take line 11 at 16:06:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 0min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:00	Arrival Time :16:22:00
+ 	-In Fridhemsplan, take line 19 at 16:04:00 to Odenplan (arriving at 16:07:00)
+ 	-Walk 3 minutes and wait 6min0
+ 	-In Odenplan, take line 6 at 16:16:00 to Tekniska högskolan (arriving at 16:22:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:08:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 4 at 16:08:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:00	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 10 at 16:09:00 to T-Centralen (arriving at 16:14:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:19:00 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:13:00	Arrival Time :16:30:00
+ 	-In Fridhemsplan, take line 11 at 16:13:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)]","[Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:07	Arrival Time :16:20:36
+ Probability of success: 0.9929637305699481
+ Quantile 50: 16:20:57
+ Quantile 90: 16:22:03
+ Quantile 95: 16:22:36
+ 	-In Fridhemsplan, take line 10 at 16:04:07 to T-Centralen (arriving at 16:07:39)
+ 	-Walk 4 minutes and wait 3min5
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:10	Arrival Time :16:20:36
+ Probability of success: 0.9680241796200345
+ Quantile 50: 16:20:57
+ Quantile 90: 16:22:03
+ Quantile 95: 16:22:36
+ 	-In Fridhemsplan, take line 19 at 16:04:10 to T-Centralen (arriving at 16:13:00)
+ 	-Walk 1 minutes and wait 0min44
+ 	-In T-Centralen, take line 14 at 16:14:44 to Tekniska högskolan (arriving at 16:20:36)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:05	Arrival Time :16:20:42
+ Probability of success: 1
+ Quantile 50: 16:21:26
+ Quantile 90: 16:23:58
+ Quantile 95: 16:24:42
+ 	-In Fridhemsplan, take line 4 at 16:04:05 to Tekniska högskolan (arriving at 16:20:42)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:04:12	Arrival Time :16:21:49
+ 	-In Fridhemsplan, take line 4 at 16:04:12 to Tekniska högskolan (arriving at 16:21:49)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:36	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 18 at 16:06:36 to T-Centralen (arriving at 16:15:30)
+ 	-Walk 1 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:06:36	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 18 at 16:06:36 to T-Centralen (arriving at 16:15:30)
+ 	-Walk 1 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:10:02	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 10 at 16:10:02 to T-Centralen (arriving at 16:14:00)
+ 	-Walk 4 minutes and wait 1min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:07:06	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 11 at 16:07:06 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 4 minutes and wait 4min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)
+ Itinerary from Fridhemsplan to Tekniska högskolan
+ Departure Time :16:09:08	Arrival Time :16:25:00
+ 	-In Fridhemsplan, take line 17 at 16:09:08 to T-Centralen (arriving at 16:18:00)
+ 	-Walk 1 minutes and wait 0min4
+ 	-In T-Centralen, take line 14 at 16:19:04 to Tekniska högskolan (arriving at 16:25:00)]"
+1900-01-01 16:02:16,Tekniska högskolan,Solna Centrum,"[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 3 minutes and wait 1min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:23:45
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:28:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 3min33
+ 	-In Bergshamra, take line 177 at 16:18:33 to Solna Centrum (arriving at 16:28:53)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:29:30
+ 	-In Tekniska högskolan, take line 4 at 16:04:00 to Fridhemsplan (arriving at 16:18:00)
+ 	-Walk 3 minutes and wait 2min30
+ 	-In Fridhemsplan, take line 11 at 16:23:30 to Solna Centrum (arriving at 16:29:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:08:00	Arrival Time :16:36:30
+ 	-In Tekniska högskolan, take line 4 at 16:08:00 to Fridhemsplan (arriving at 16:22:00)
+ 	-Walk 3 minutes and wait 5min30
+ 	-In Fridhemsplan, take line 11 at 16:30:30 to Solna Centrum (arriving at 16:36:30)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:05:00	Arrival Time :16:38:53
+ 	-In Tekniska högskolan, take line 14 at 16:05:00 to Bergshamra (arriving at 16:10:00)
+ 	-Walk 5 minutes and wait 13min33
+ 	-In Bergshamra, take line 176 at 16:28:33 to Solna Centrum (arriving at 16:38:53)    ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:00	Arrival Time :16:23:00
+ 	-In Tekniska högskolan, take line 14 at 16:04:00 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min0
+ 	-In T-Centralen, take line 11 at 16:14:00 to Solna Centrum (arriving at 16:23:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:09:00	Arrival Time :16:30:00
+ 	-In Tekniska högskolan, take line 14 at 16:09:00 to T-Centralen (arriving at 16:16:00)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:00 to Solna Centrum (arriving at 16:30:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:14:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:14:00 to T-Centralen (arriving at 16:21:00)
+ 	-Walk 3 minutes and wait 4min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:19:00	Arrival Time :16:37:00
+ 	-In Tekniska högskolan, take line 14 at 16:19:00 to T-Centralen (arriving at 16:26:00)
+ 	-Walk 3 minutes and wait 1439min0
+ 	-In T-Centralen, take line 11 at 16:28:00 to Solna Centrum (arriving at 16:37:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:24:00	Arrival Time :16:44:00
+ 	-In Tekniska högskolan, take line 14 at 16:24:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In T-Centralen, take line 11 at 16:35:00 to Solna Centrum (arriving at 16:44:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:29:00	Arrival Time :16:51:00
+ 	-In Tekniska högskolan, take line 14 at 16:29:00 to T-Centralen (arriving at 16:36:00)
+ 	-Walk 3 minutes and wait 3min0
+ 	-In T-Centralen, take line 11 at 16:42:00 to Solna Centrum (arriving at 16:51:00)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:34:00	Arrival Time :16:58:00
+ 	-In Tekniska högskolan, take line 14 at 16:34:00 to T-Centralen (arriving at 16:41:00)
+ 	-Walk 3 minutes and wait 5min0
+ 	-In T-Centralen, take line 11 at 16:49:00 to Solna Centrum (arriving at 16:58:00)     ]","[Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:04:30	Arrival Time :16:23:45
+ Probability of success: 0.9900783783783784
+ Quantile 50: 16:23:45
+ Quantile 90: 16:24:53
+ Quantile 95: 16:25:27
+ 	-In Tekniska högskolan, take line 14 at 16:04:30 to T-Centralen (arriving at 16:11:00)
+ 	-Walk 3 minutes and wait 0min30
+ 	-In T-Centralen, take line 11 at 16:14:30 to Solna Centrum (arriving at 16:23:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:03:04	Arrival Time :16:30:45
+ Probability of success: 0.8732
+ Quantile 50: 16:30:53
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:06
+ 	-In Tekniska högskolan, take line 4 at 16:03:04 to Fridhemsplan (arriving at 16:19:43)
+ 	-Walk 3 minutes and wait 1min58
+ 	-In Fridhemsplan, take line 11 at 16:24:41 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:10:17	Arrival Time :16:30:45
+ Probability of success: 0.9874822485207101
+ Quantile 50: 16:30:45
+ Quantile 90: 16:31:54
+ Quantile 95: 16:32:30
+ 	-In Tekniska högskolan, take line 14 at 16:10:17 to T-Centralen (arriving at 16:16:30)
+ 	-Walk 3 minutes and wait 2min0
+ 	-In T-Centralen, take line 11 at 16:21:30 to Solna Centrum (arriving at 16:30:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:37:28
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 6min26
+ 	-In Bergshamra, take line 177 at 16:23:33 to Solna Centrum (arriving at 16:37:28)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:07:39	Arrival Time :16:37:45
+ 	-In Tekniska högskolan, take line 4 at 16:07:39 to Fridhemsplan (arriving at 16:25:50)
+ 	-Walk 3 minutes and wait 2min40
+ 	-In Fridhemsplan, take line 11 at 16:31:30 to Solna Centrum (arriving at 16:37:45)
+ Itinerary from Tekniska högskolan to Solna Centrum
+ Departure Time :16:06:58	Arrival Time :16:48:01
+ 	-In Tekniska högskolan, take line 14 at 16:06:58 to Bergshamra (arriving at 16:12:07)
+ 	-Walk 5 minutes and wait 17min12
+ 	-In Bergshamra, take line 176 at 16:34:19 to Solna Centrum (arriving at 16:48:01)    ]"
+1900-01-01 16:02:17,Solna Centrum,Tekniska högskolan,"[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:28:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:22:00 to Tekniska högskolan (arriving at 16:28:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:30	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:30 to Fridhemsplan (arriving at 16:13:00)
+ 	-Walk 3 minutes and wait 1min0
+ 	-In Fridhemsplan, take line 4 at 16:17:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:22	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 177 at 16:07:22 to Bergshamra (arriving at 16:23:32)
+ 	-Walk 5 minutes and wait 0min43
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:12:08	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 176 at 16:12:08 to Bergshamra (arriving at 16:24:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:14:30	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 11 at 16:14:30 to T-Centralen (arriving at 16:24:30)
+ 	-Walk 4 minutes and wait 0min30
+ 	-In T-Centralen, take line 14 at 16:29:00 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:12:08	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 176 at 16:12:08 to Bergshamra (arriving at 16:24:04)
+ 	-Walk 5 minutes and wait 0min11
+ 	-In Bergshamra, take line 14 at 16:29:15 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:14:30	Arrival Time :16:39:00
+ 	-In Solna Centrum, take line 11 at 16:14:30 to Fridhemsplan (arriving at 16:20:00)
+ 	-Walk 3 minutes and wait 3min0
+ 	-In Fridhemsplan, take line 4 at 16:26:00 to Tekniska högskolan (arriving at 16:39:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:22:08	Arrival Time :16:49:00
+ 	-In Solna Centrum, take line 177 at 16:22:08 to Bergshamra (arriving at 16:34:39)
+ 	-Walk 5 minutes and wait 3min36
+ 	-In Bergshamra, take line 14 at 16:43:15 to Tekniska högskolan (arriving at 16:49:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:00:00	Arrival Time :16:20:00
+ 	-In Solna Centrum, take line 11 at 16:00:00 to T-Centralen (arriving at 16:10:00)
+ 	-Walk 4 minutes and wait 0min0
+ 	-In T-Centralen, take line 14 at 16:14:00 to Tekniska högskolan (arriving at 16:20:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:07:00	Arrival Time :16:30:00
+ 	-In Solna Centrum, take line 11 at 16:07:00 to T-Centralen (arriving at 16:17:00)
+ 	-Walk 4 minutes and wait 3min0
+ 	-In T-Centralen, take line 14 at 16:24:00 to Tekniska högskolan (arriving at 16:30:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:14:00	Arrival Time :16:35:00
+ 	-In Solna Centrum, take line 11 at 16:14:00 to T-Centralen (arriving at 16:24:00)
+ 	-Walk 4 minutes and wait 1min0
+ 	-In T-Centralen, take line 14 at 16:29:00 to Tekniska högskolan (arriving at 16:35:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:21:00	Arrival Time :16:45:00
+ 	-In Solna Centrum, take line 11 at 16:21:00 to T-Centralen (arriving at 16:31:00)
+ 	-Walk 4 minutes and wait 4min0
+ 	-In T-Centralen, take line 14 at 16:39:00 to Tekniska högskolan (arriving at 16:45:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:28:00	Arrival Time :16:50:00
+ 	-In Solna Centrum, take line 11 at 16:28:00 to T-Centralen (arriving at 16:38:00)
+ 	-Walk 4 minutes and wait 2min0
+ 	-In T-Centralen, take line 14 at 16:44:00 to Tekniska högskolan (arriving at 16:50:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:35:00	Arrival Time :17:00:00
+ 	-In Solna Centrum, take line 11 at 16:35:00 to T-Centralen (arriving at 16:45:00)
+ 	-Walk 4 minutes and wait 5min0
+ 	-In T-Centralen, take line 14 at 16:54:00 to Tekniska högskolan (arriving at 17:00:00)]","[Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:03:03	Arrival Time :16:29:30
+ Probability of success: 0.9452083333333333
+ Quantile 50: 16:29:30
+ Quantile 90: 16:30:05
+ Quantile 95: 16:30:20
+ 	-In Solna Centrum, take line 176 at 16:03:03 to Bergshamra (arriving at 16:15:13)
+ 	-Walk 5 minutes and wait 3min17
+ 	-In Bergshamra, take line 14 at 16:23:30 to Tekniska högskolan (arriving at 16:29:30)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:30:43
+ Probability of success: 0.9903880903490759
+ Quantile 50: 16:30:32
+ Quantile 90: 16:31:45
+ Quantile 95: 16:32:14
+ 	-In Solna Centrum, take line 11 at 16:08:20 to T-Centralen (arriving at 16:17:30)
+ 	-Walk 4 minutes and wait 2min34
+ 	-In T-Centralen, take line 14 at 16:24:04 to Tekniska högskolan (arriving at 16:30:43)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:08:20	Arrival Time :16:37:00
+ Probability of success: 0.9997429305912596
+ Quantile 50: 16:38:00
+ Quantile 90: 16:41:29
+ Quantile 95: 16:43:00
+ 	-In Solna Centrum, take line 11 at 16:08:20 to Fridhemsplan (arriving at 16:14:06)
+ 	-Walk 3 minutes and wait 2min55
+ 	-In Fridhemsplan, take line 4 at 16:20:01 to Tekniska högskolan (arriving at 16:37:00)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:11:16	Arrival Time :16:39:30
+ 	-In Solna Centrum, take line 177 at 16:11:16 to Bergshamra (arriving at 16:23:38)
+ 	-Walk 5 minutes and wait 4min52
+ 	-In Bergshamra, take line 14 at 16:33:30 to Tekniska högskolan (arriving at 16:39:30)
+ Itinerary from Solna Centrum to Tekniska högskolan
+ Departure Time :16:18:12	Arrival Time :16:44:30
+ 	-In Solna Centrum, take line 176 at 16:18:12 to Bergshamra (arriving at 16:29:01)
+ 	-Walk 5 minutes and wait 4min29
+ 	-In Bergshamra, take line 14 at 16:38:30 to Tekniska högskolan (arriving at 16:44:30)]"

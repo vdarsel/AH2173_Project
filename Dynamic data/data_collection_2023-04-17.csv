@@ -1,0 +1,117 @@
+GroupOfLine,TransportMode,LineNumber,Destination,JourneyDirection,StopAreaName,StopAreaNumber,StopPointNumber,StopPointDesignation,TimeTabledDateTime,ExpectedDateTime,DisplayTime,JourneyNumber,Deviations,RequestTime,Station
+tunnelbanans blå linje,METRO,10,Kungsträdgården,2,T-Centralen,1051,3052,6,2023-04-17T11:12:00,2023-04-17T11:14:13,Nu,30212,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,18,Farsta strand,2,T-Centralen,1051,1052,4,2023-04-17T11:14:30,2023-04-17T11:14:30,Nu,10134,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans blå linje,METRO,10,Hjulsta,1,T-Centralen,1051,3051,5,2023-04-17T11:15:30,2023-04-17T11:15:30,1 min,30347,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,13,Ropsten,1,T-Centralen,1051,1051,3,2023-04-17T11:15:30,2023-04-17T11:16:30,2 min,20672,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,19,Hässelby strand,1,T-Centralen,1051,2051,1,2023-04-17T11:16:30,2023-04-17T11:16:32,2 min,10569,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,14,Liljeholmen,2,T-Centralen,1051,2052,2,2023-04-17T11:16:30,2023-04-17T11:16:54,2 min,20446,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans blå linje,METRO,11,Kungsträdgården,2,T-Centralen,1051,3052,6,2023-04-17T11:17:00,2023-04-17T11:17:00,2 min,30043,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,17,Skarpnäck,2,T-Centralen,1051,1052,4,2023-04-17T11:18:00,2023-04-17T11:18:00,3 min,11271,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,T-Centralen,1051,1051,3,2023-04-17T11:19:00,2023-04-17T11:19:50,5 min,20115,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,17,Åkeshov,1,T-Centralen,1051,2051,1,2023-04-17T11:20:00,2023-04-17T11:20:00,5 min,11026,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans blå linje,METRO,11,Akalla,1,T-Centralen,1051,3051,5,2023-04-17T11:20:30,2023-04-17T11:20:30,6 min,30472,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,19,Hagsätra,2,T-Centralen,1051,1052,4,2023-04-17T11:21:00,2023-04-17T11:21:00,6 min,10710,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,14,Fruängen,2,T-Centralen,1051,2052,2,2023-04-17T11:20:00,2023-04-17T11:21:17,6 min,20447,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans blå linje,METRO,10,Kungsträdgården,2,T-Centralen,1051,3052,6,2023-04-17T11:22:00,2023-04-17T11:22:00,7 min,30213,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,T-Centralen,1051,1051,3,2023-04-17T11:22:30,2023-04-17T11:22:57,8 min,20233,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,13,Norsborg,2,T-Centralen,1051,2052,2,2023-04-17T11:23:00,2023-04-17T11:23:00,8 min,20822,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,18,Alvik,1,T-Centralen,1051,2051,1,2023-04-17T11:23:30,2023-04-17T11:23:30,9 min,10352,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,18,Farsta strand,2,T-Centralen,1051,1052,4,2023-04-17T11:24:30,2023-04-17T11:24:30,10 min,10135,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans blå linje,METRO,10,Hjulsta,1,T-Centralen,1051,3051,5,2023-04-17T11:25:30,2023-04-17T11:25:30,11 min,30348,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,13,Ropsten,1,T-Centralen,1051,1051,3,2023-04-17T11:25:30,2023-04-17T11:26:17,11 min,20673,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,14,Liljeholmen,2,T-Centralen,1051,2052,2,2023-04-17T11:26:30,2023-04-17T11:26:30,12 min,20448,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,19,Hässelby strand,1,T-Centralen,1051,2051,1,2023-04-17T11:26:30,2023-04-17T11:26:30,12 min,10570,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans blå linje,METRO,11,Kungsträdgården,2,T-Centralen,1051,3052,6,2023-04-17T11:27:00,2023-04-17T11:27:00,12 min,30044,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans gröna linje,METRO,17,Skarpnäck,2,T-Centralen,1051,1052,4,2023-04-17T11:28:00,2023-04-17T11:28:00,13 min,11272,,2023-04-17 11:14:21.041049,T-Centralen
+tunnelbanans röda linje,METRO,14,Fruängen,2,Tekniska högskolan,2221,2222,2,2023-04-17T11:13:45,2023-04-17T11:15:21,1 min,20447,,2023-04-17 11:14:22.386476,Tekniska högskolan
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,Tekniska högskolan,2221,2221,1,2023-04-17T11:15:00,2023-04-17T11:15:46,1 min,20114,,2023-04-17 11:14:22.386476,Tekniska högskolan
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,Tekniska högskolan,2221,2221,1,2023-04-17T11:18:30,2023-04-17T11:18:58,4 min,20232,,2023-04-17 11:14:22.386476,Tekniska högskolan
+tunnelbanans röda linje,METRO,14,Liljeholmen,2,Tekniska högskolan,2221,2222,2,2023-04-17T11:20:15,2023-04-17T11:20:15,5 min,20448,,2023-04-17 11:14:22.386476,Tekniska högskolan
+tunnelbanans röda linje,METRO,14,Fruängen,2,Tekniska högskolan,2221,2222,2,2023-04-17T11:23:45,2023-04-17T11:23:45,9 min,20449,,2023-04-17 11:14:22.386476,Tekniska högskolan
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,Tekniska högskolan,2221,2221,1,2023-04-17T11:25:00,2023-04-17T11:25:33,11 min,20115,,2023-04-17 11:14:22.386476,Tekniska högskolan
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,Tekniska högskolan,2221,2221,1,2023-04-17T11:28:30,2023-04-17T11:28:36,14 min,20233,,2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,4,Radiohuset,2,Östra station,10194,10195,M,2023-04-17T11:11:00,2023-04-17T11:14:36,Nu,2945,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,6,Ropsten,1,Östra station,10194,10195,M,2023-04-17T11:16:00,2023-04-17T11:16:04,1 min,4010,,2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,4,Gullmarsplan,1,Östra station,10194,10317,B,2023-04-17T11:15:00,2023-04-17T11:16:05,1 min,3107,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,6,Karolinska institutet,2,Östra station,10194,10317,B,2023-04-17T11:16:00,2023-04-17T11:16:48,2 min,4122,,2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,670,Vaxholm,1,Tekniska högskolan,60080,60083,F,2023-04-17T11:18:00,2023-04-17T11:18:00,11:18,11120,"[{'Text': 'Vägarbete i Engarn. Förändringar för flertalet linjer. Sök din resa i reseplaneraren. Detta gäller mellan 2023-04-03 till 2023-06-22.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 5}]",2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,4,Radiohuset,2,Östra station,10194,10195,M,2023-04-17T11:18:00,2023-04-17T11:18:22,4 min,2946,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,676,Norrtälje,1,Tekniska högskolan,60080,60088,G,2023-04-17T11:20:00,2023-04-17T11:20:00,5 min,11120,,2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,4,Gullmarsplan,1,Östra station,10194,10317,B,2023-04-17T11:22:00,2023-04-17T11:22:00,11:22,3108,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:22.386476,Tekniska högskolan
+,BUS,67,Odenplan,2,Östra station,10194,10194,A,2023-04-17T11:25:00,2023-04-17T11:25:00,10 min,8375,,2023-04-17 11:14:22.386476,Tekniska högskolan
+,BUS,67,Blockhusudden,1,Östra station,10194,10195,M,2023-04-17T11:26:00,2023-04-17T11:26:00,11:26,8444,,2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,6,Karolinska institutet,2,Östra station,10194,10317,B,2023-04-17T11:26:00,2023-04-17T11:26:00,11:26,4123,,2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,6,Ropsten,1,Östra station,10194,10195,M,2023-04-17T11:26:00,2023-04-17T11:27:32,13 min,4011,,2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,4,Radiohuset,2,Östra station,10194,10195,M,2023-04-17T11:25:00,2023-04-17T11:27:58,13 min,2947,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:22.386476,Tekniska högskolan
+blåbuss,BUS,4,Gullmarsplan,1,Östra station,10194,10317,B,2023-04-17T11:29:00,2023-04-17T11:29:00,11:29,3109,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:22.386476,Tekniska högskolan
+,BUS,72,Frihamnen,1,Östra station,10194,10195,M,2023-04-17T11:17:00,,-,9575,,2023-04-17 11:14:22.386476,Tekniska högskolan
+,BUS,72,Karolinska sjukhuset,2,Östra station,10194,10317,B,2023-04-17T11:18:00,,-,9640,,2023-04-17 11:14:22.386476,Tekniska högskolan
+tunnelbanans blå linje,METRO,11,Kungsträdgården,2,Solna centrum,3211,3212,2,2023-04-17T11:17:45,2023-04-17T11:17:45,3 min,30044,,2023-04-17 11:14:22.677315,Solna Centrum
+tunnelbanans blå linje,METRO,11,Akalla,1,Solna centrum,3211,3211,1,2023-04-17T11:19:15,2023-04-17T11:19:15,4 min,30471,,2023-04-17 11:14:22.677315,Solna Centrum
+tunnelbanans blå linje,METRO,11,Kungsträdgården,2,Solna centrum,3211,3212,2,2023-04-17T11:27:45,2023-04-17T11:27:45,13 min,30045,,2023-04-17 11:14:22.677315,Solna Centrum
+tunnelbanans blå linje,METRO,11,Akalla,1,Solna centrum,3211,3211,1,2023-04-17T11:29:15,2023-04-17T11:29:15,14 min,30472,,2023-04-17 11:14:22.677315,Solna Centrum
+,BUS,509,Danderyds sjukhus,1,Solna centrum,12506,50722,B,2023-04-17T11:15:00,2023-04-17T11:15:00,Nu,21226,,2023-04-17 11:14:22.677315,Solna Centrum
+,BUS,513,Hagalund,1,Solna centrum,12506,50725,E,2023-04-17T11:17:00,2023-04-17T11:17:00,11:17,21288,,2023-04-17 11:14:22.677315,Solna Centrum
+,BUS,506,Hallonbergen,1,Solna centrum,12506,12507,L,2023-04-17T11:18:00,2023-04-17T11:18:30,4 min,20530,,2023-04-17 11:14:22.677315,Solna Centrum
+,BUS,129,Brommaplan,2,Solna centrum,12506,50721,A,2023-04-17T11:20:00,2023-04-17T11:20:00,11:20,21128,,2023-04-17 11:14:22.677315,Solna Centrum
+,BUS,113,Blackebergs gård,2,Solna centrum,12506,50726,F,2023-04-17T11:22:00,2023-04-17T11:22:00,11:22,21368,,2023-04-17 11:14:22.677315,Solna Centrum
+,BUS,505,Bagartorp,1,Solna centrum,12506,50726,F,2023-04-17T11:23:00,2023-04-17T11:23:00,11:23,21369,,2023-04-17 11:14:22.677315,Solna Centrum
+,BUS,506,Karolinska sjukhuset,2,Solna centrum,12506,12506,K,2023-04-17T11:25:00,2023-04-17T11:25:00,10 min,20319,,2023-04-17 11:14:22.677315,Solna Centrum
+Tvärbanan,TRAM,30,Solna station,1,Solna centrum,4547,4547,3,2023-04-17T11:16:00,2023-04-17T11:16:00,1 min,11026,,2023-04-17 11:14:22.677315,Solna Centrum
+Tvärbanan,TRAM,30,Sickla,2,Solna centrum,4547,4548,4,2023-04-17T11:20:30,2023-04-17T11:20:30,11:20,21118,,2023-04-17 11:14:22.677315,Solna Centrum
+Tvärbanan,TRAM,30,Solna station,1,Solna centrum,4547,4547,3,2023-04-17T11:23:30,2023-04-17T11:23:30,9 min,11033,"[{'Text': 'Endast en vagn. Vänligen gå mot mitten av plattformen.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 5}]",2023-04-17 11:14:22.677315,Solna Centrum
+Tvärbanan,TRAM,30,Sickla,2,Solna centrum,4547,4548,4,2023-04-17T11:28:00,2023-04-17T11:28:00,11:28,21126,,2023-04-17 11:14:22.677315,Solna Centrum
+tunnelbanans blå linje,METRO,10,Hjulsta,1,Fridhemsplan,1151,3151,3,2023-04-17T11:08:30,2023-04-17T11:13:36,11:08,30346,"[{'Text': 'Inställd', 'Consequence': 'CANCELLED', 'ImportanceLevel': 0}]",2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans blå linje,METRO,11,Akalla,1,Fridhemsplan,1151,3151,3,2023-04-17T11:13:30,2023-04-17T11:13:36,Nu,30471,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,18,Farsta strand,2,Fridhemsplan,1151,1152,2,2023-04-17T11:16:15,2023-04-17T11:16:32,2 min,10135,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,17,Åkeshov,1,Fridhemsplan,1151,1151,1,2023-04-17T11:17:30,2023-04-17T11:17:30,3 min,11025,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans blå linje,METRO,10,Kungsträdgården,2,Fridhemsplan,1151,3152,4,2023-04-17T11:18:00,2023-04-17T11:18:20,3 min,30213,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans blå linje,METRO,10,Hjulsta,1,Fridhemsplan,1151,3151,3,2023-04-17T11:18:30,2023-04-17T11:18:30,4 min,30347,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,17,Skarpnäck,2,Fridhemsplan,1151,1152,2,2023-04-17T11:19:45,2023-04-17T11:19:45,5 min,11272,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,18,Alvik,1,Fridhemsplan,1151,1151,1,2023-04-17T11:21:00,2023-04-17T11:21:07,6 min,10351,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,19,Hagsätra,2,Fridhemsplan,1151,1152,2,2023-04-17T11:22:45,2023-04-17T11:22:45,8 min,10711,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans blå linje,METRO,11,Kungsträdgården,2,Fridhemsplan,1151,3152,4,2023-04-17T11:23:00,2023-04-17T11:23:08,8 min,30044,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans blå linje,METRO,11,Akalla,1,Fridhemsplan,1151,3151,3,2023-04-17T11:23:30,2023-04-17T11:23:36,9 min,30472,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,19,Hässelby strand,1,Fridhemsplan,1151,1151,1,2023-04-17T11:24:00,2023-04-17T11:24:00,9 min,10569,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,18,Farsta strand,2,Fridhemsplan,1151,1152,2,2023-04-17T11:26:15,2023-04-17T11:26:15,11:26,10136,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,17,Åkeshov,1,Fridhemsplan,1151,1151,1,2023-04-17T11:27:30,2023-04-17T11:27:40,13 min,11026,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans blå linje,METRO,10,Kungsträdgården,2,Fridhemsplan,1151,3152,4,2023-04-17T11:28:00,2023-04-17T11:28:00,13 min,30214,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans blå linje,METRO,10,Hjulsta,1,Fridhemsplan,1151,3151,3,2023-04-17T11:28:30,2023-04-17T11:28:30,14 min,30348,,2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,77,Liljeholmen,1,Fridhemsplan,10369,10908,F,2023-04-17T11:13:00,2023-04-17T11:13:58,Nu,10967,,2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,54,Hjorthagen,1,Fridhemsplan,10369,10747,A,2023-04-17T11:14:00,2023-04-17T11:14:47,Nu,5965,,2023-04-17 11:14:23.008624,Friedhemsplan
+blåbuss,BUS,4,Gullmarsplan,1,Fridhemsplan,10369,10908,F,2023-04-17T11:15:00,2023-04-17T11:17:24,3 min,3105,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:23.008624,Friedhemsplan
+blåbuss,BUS,4,Radiohuset,2,Fridhemsplan,10369,10369,B,2023-04-17T11:18:00,2023-04-17T11:18:00,3 min,2948,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,61,Hornsberg,1,Fridhemsplan,10369,10641,E,2023-04-17T11:20:00,2023-04-17T11:20:00,5 min,7133,,2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,77,Karolinska sjukhuset,2,Fridhemsplan,10369,10369,B,2023-04-17T11:21:00,2023-04-17T11:21:37,7 min,11027,,2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,61,Ruddammen,2,Fridhemsplan,10369,10747,A,2023-04-17T11:24:00,2023-04-17T11:24:00,9 min,7064,,2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,54,Reimersholme,2,Fridhemsplan,10369,10908,F,2023-04-17T11:24:00,2023-04-17T11:24:00,9 min,5903,,2023-04-17 11:14:23.008624,Friedhemsplan
+blåbuss,BUS,4,Radiohuset,2,Fridhemsplan,10369,10369,B,2023-04-17T11:25:00,2023-04-17T11:25:00,10 min,2949,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:23.008624,Friedhemsplan
+blåbuss,BUS,4,Gullmarsplan,1,Fridhemsplan,10369,10908,F,2023-04-17T11:22:00,2023-04-17T11:26:12,11 min,3106,"[{'Text': 'Hållplats Jungfrugatan, Mariebergsgatan och Högalidsgatan är indragna.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 7}]",2023-04-17 11:14:23.008624,Friedhemsplan
+blåbuss,BUS,1,Frihamnen,2,Fridhemsplan,10369,10742,G,2023-04-17T11:27:00,2023-04-17T11:27:00,11:27,312,,2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,54,Hjorthagen,1,Fridhemsplan,10369,10747,A,2023-04-17T11:29:00,2023-04-17T11:29:00,11:29,5966,,2023-04-17 11:14:23.008624,Friedhemsplan
+blåbuss,BUS,1,Stora Essingen,1,Fridhemsplan,10369,10745,H,2023-04-17T11:15:00,,-,434,,2023-04-17 11:14:23.008624,Friedhemsplan
+,BUS,56,Stora Essingen,1,Fridhemsplan,10369,10745,H,2023-04-17T11:24:00,,-,6502,,2023-04-17 11:14:23.008624,Friedhemsplan
+blåbuss,BUS,1,Frihamnen,2,Fridhemsplan,10369,10742,G,2023-04-17T11:19:00,,-,311,,2023-04-17 11:14:23.008624,Friedhemsplan
+tunnelbanans gröna linje,METRO,19,Hässelby strand,1,Globen,1611,1611,1,2023-04-17T11:15:00,2023-04-17T11:15:00,Nu,10570,,2023-04-17 11:14:23.287747,Globen
+tunnelbanans gröna linje,METRO,19,Hagsätra,2,Globen,1611,1612,2,2023-04-17T11:21:30,2023-04-17T11:21:30,7 min,10709,,2023-04-17 11:14:23.287747,Globen
+tunnelbanans gröna linje,METRO,19,Hässelby strand,1,Globen,1611,1611,1,2023-04-17T11:25:00,2023-04-17T11:25:00,10 min,10571,,2023-04-17 11:14:23.287747,Globen
+Tvärbanan,TRAM,30,Sickla,2,Globen,4503,4504,4,2023-04-17T11:14:00,2023-04-17T11:14:52,Nu,21033,,2023-04-17 11:14:23.287747,Globen
+Tvärbanan,TRAM,30,Solna station,1,Globen,4503,4503,3,2023-04-17T11:14:30,2023-04-17T11:15:12,Nu,11103,,2023-04-17 11:14:23.287747,Globen
+Tvärbanan,TRAM,30,Sickla,2,Globen,4503,4504,4,2023-04-17T11:21:30,2023-04-17T11:21:30,7 min,21041,,2023-04-17 11:14:23.287747,Globen
+Tvärbanan,TRAM,30,Solna station,1,Globen,4503,4503,3,2023-04-17T11:22:00,2023-04-17T11:23:21,8 min,11111,"[{'Text': 'Endast en vagn. Vänligen gå mot mitten av plattformen.', 'Consequence': 'INFORMATION', 'ImportanceLevel': 5}]",2023-04-17 11:14:23.287747,Globen
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,Bergshamra,2241,2241,1,2023-04-17T11:13:30,2023-04-17T11:14:37,Nu,20231,,2023-04-17 11:14:23.610406,Bergshamra
+tunnelbanans röda linje,METRO,14,Liljeholmen,2,Bergshamra,2241,2242,2,2023-04-17T11:14:30,2023-04-17T11:14:49,Nu,20448,,2023-04-17 11:14:23.610406,Bergshamra
+tunnelbanans röda linje,METRO,14,Fruängen,2,Bergshamra,2241,2242,2,2023-04-17T11:18:00,2023-04-17T11:18:19,3 min,20449,,2023-04-17 11:14:23.610406,Bergshamra
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,Bergshamra,2241,2241,1,2023-04-17T11:20:00,2023-04-17T11:20:57,6 min,20114,,2023-04-17 11:14:23.610406,Bergshamra
+tunnelbanans röda linje,METRO,14,Mörby centrum,1,Bergshamra,2241,2241,1,2023-04-17T11:23:30,2023-04-17T11:24:10,9 min,20232,,2023-04-17 11:14:23.610406,Bergshamra
+tunnelbanans röda linje,METRO,14,Liljeholmen,2,Bergshamra,2241,2242,2,2023-04-17T11:24:30,2023-04-17T11:24:49,10 min,20450,,2023-04-17 11:14:23.610406,Bergshamra
+tunnelbanans röda linje,METRO,14,Fruängen,2,Bergshamra,2241,2242,2,2023-04-17T11:28:00,2023-04-17T11:28:19,13 min,20451,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,540,Tensta centrum,1,Bergshamra södra,50359,50362,,2023-04-17T11:13:31,2023-04-17T11:14:21,Nu,22511,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,540,Tensta centrum,1,Bergshamra centrum,50357,50360,,2023-04-17T11:15:00,2023-04-17T11:15:49,1 min,22511,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,509,Danderyds sjukhus,1,Bergshamra centrum,50357,50357,,2023-04-17T11:24:00,2023-04-17T11:24:36,10 min,21225,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,509,Solna centrum,2,Bergshamra södra,50359,50362,,2023-04-17T11:24:45,2023-04-17T11:24:45,11:24,20210,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,509,Danderyds sjukhus,1,Bergshamra södra,50359,50359,,2023-04-17T11:25:29,2023-04-17T11:25:53,11 min,21225,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,509,Solna centrum,2,Bergshamra centrum,50357,50360,,2023-04-17T11:26:00,2023-04-17T11:26:00,11:26,20210,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,540,Universitetet,2,Bergshamra centrum,50357,50357,,2023-04-17T11:27:00,2023-04-17T11:27:00,12 min,22310,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,540,Universitetet,2,Bergshamra södra,50359,50359,,2023-04-17T11:27:56,2023-04-17T11:27:13,12 min,22310,,2023-04-17 11:14:23.610406,Bergshamra
+,BUS,540,Tensta centrum,1,Bergshamra södra,50359,50362,,2023-04-17T11:28:31,2023-04-17T11:28:31,11:28,22512,,2023-04-17 11:14:23.610406,Bergshamra
